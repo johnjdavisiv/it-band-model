@@ -1,0 +1,47 @@
+{
+  "tendon_force_length_curves": {
+    "generic": {
+      "strain_at_one_norm_force": 0.03219887138224496,
+      "stiffness_at_one_norm_force": 38.89230943022157,
+      "norm_force_at_toe_end": 0.23502696304141243,
+      "curviness": 0.47706757401530886,
+      "mse": 4.073534445251637e-07,
+      "applies_to": [
+        "glmax1",
+        "glmax2",
+        "glmax3",
+        "glmax4"
+      ]
+    },
+    "tfl12_ITB": {
+      "strain_at_one_norm_force": 0.05304520033233392,
+      "stiffness_at_one_norm_force": 30.3089764454159,
+      "norm_force_at_toe_end": 0.6105872239555253,
+      "curviness": 0.9999999999999999,
+      "mse": 9.093017143699374e-05,
+      "applies_to": [
+        "tfl12_ITB"
+      ]
+    },
+    "glmax12_ITB": {
+      "strain_at_one_norm_force": 0.08707634307243044,
+      "stiffness_at_one_norm_force": 14.912507089633753,
+      "norm_force_at_toe_end": 0.29861945320678196,
+      "curviness": 0.9999999999999999,
+      "mse": 2.3000473547333968e-05,
+      "applies_to": [
+        "glmax12_ITB"
+      ]
+    },
+    "glmax34_ITB": {
+      "strain_at_one_norm_force": 0.11007558111073354,
+      "stiffness_at_one_norm_force": 11.107458279427304,
+      "norm_force_at_toe_end": 0.22429526595396213,
+      "curviness": 0.9999999999999999,
+      "mse": 1.2402064482643831e-05,
+      "applies_to": [
+        "glmax34_ITB"
+      ]
+    }
+  }
+}

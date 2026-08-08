@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Ground-reaction loads for subject01 Run_30002 (3 m/s), full trial. GRF from Hamner & Delp
+     (2013); one ExternalLoads serves every gait cycle (Moco reads the GRF at each cycle's times).
+     The datafile element below is a BARE filename; scripts/lib/paper1io.py rewrites it to an absolute
+     path at runtime so the run is location-independent (Mac dev / Linux box), no machine paths in git. -->
+<OpenSimDocument Version="40600">
+	<ExternalLoads name="ExternalLoads">
+		<objects>
+			<ExternalForce name="RightFoot_ExternalForce">
+				<isDisabled>false</isDisabled>
+				<applied_to_body>calcn_r</applied_to_body>
+				<force_expressed_in_body>ground</force_expressed_in_body>
+				<point_expressed_in_body>ground</point_expressed_in_body>
+				<force_identifier>R_ground_force_v</force_identifier>
+				<point_identifier>R_ground_force_p</point_identifier>
+				<torque_identifier>R_ground_torque_</torque_identifier>
+				<data_source_name>Unassigned</data_source_name>
+			</ExternalForce>
+			<ExternalForce name="LeftFoot_ExternalForce">
+				<isDisabled>false</isDisabled>
+				<applied_to_body>calcn_l</applied_to_body>
+				<force_expressed_in_body>ground</force_expressed_in_body>
+				<point_expressed_in_body>ground</point_expressed_in_body>
+				<force_identifier>L_ground_force_v</force_identifier>
+				<point_identifier>L_ground_force_p</point_identifier>
+				<torque_identifier>L_ground_torque_</torque_identifier>
+				<data_source_name>Unassigned</data_source_name>
+			</ExternalForce>
+		</objects>
+		<groups/>
+		<datafile>Run_30002_GRF.mot</datafile>
+		<external_loads_model_kinematics_file/>
+		<lowpass_cutoff_frequency_for_load_kinematics>15.0</lowpass_cutoff_frequency_for_load_kinematics>
+	</ExternalLoads>
+</OpenSimDocument>

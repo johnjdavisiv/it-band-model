@@ -1,0 +1,16 @@
+joint,swept_coordinate,condition,model,n_points,sweep_deg,silder_support_deg,rmse_Nm,mae_Nm,max_abs_err_Nm,bias_Nm,silder_range_Nm
+hip,hip_flexion_r,knee = 15°,Davis2026 (ITB model),41,-15.0 to 37.0,-15.0 to 80.0,3.316,2.626,8.164,-1.117,-42.4 to 28.4
+hip,hip_flexion_r,knee = 15°,RajagopalLaiUhlrich2023,41,-15.0 to 37.0,-15.0 to 80.0,2.641,1.868,8.668,-0.88,-42.4 to 28.4
+hip,hip_flexion_r,knee = 15°,Rajagopal2016,41,-15.0 to 37.0,-15.0 to 80.0,12.978,11.023,28.81,-11.023,-42.4 to 28.4
+hip,hip_flexion_r,knee = 60°,Davis2026 (ITB model),41,-15.0 to 37.0,-15.0 to 80.0,3.366,2.924,8.108,-0.289,-9.2 to 35.0
+hip,hip_flexion_r,knee = 60°,RajagopalLaiUhlrich2023,41,-15.0 to 37.0,-15.0 to 80.0,2.878,2.149,9.965,-0.821,-9.2 to 35.0
+hip,hip_flexion_r,knee = 60°,Rajagopal2016,41,-15.0 to 37.0,-15.0 to 80.0,6.414,5.568,13.942,-0.249,-9.2 to 35.0
+knee,knee_angle_r,"hip = 0°,  ankle = 20°",Davis2026 (ITB model),41,0.0 to 75.0,-0.0 to 120.0,3.038,2.599,7.932,0.106,-16.5 to 20.9
+knee,knee_angle_r,"hip = 0°,  ankle = 20°",RajagopalLaiUhlrich2023,41,0.0 to 75.0,-0.0 to 120.0,3.191,2.792,7.63,0.438,-16.5 to 20.9
+knee,knee_angle_r,"hip = 0°,  ankle = 20°",Rajagopal2016,41,0.0 to 75.0,-0.0 to 120.0,21.629,15.829,46.488,-11.351,-16.5 to 20.9
+knee,knee_angle_r,"hip = 0°,  ankle = −15°",Davis2026 (ITB model),41,0.0 to 75.0,-0.0 to 120.0,1.929,1.433,5.017,-0.578,-17.1 to 3.4
+knee,knee_angle_r,"hip = 0°,  ankle = −15°",RajagopalLaiUhlrich2023,41,0.0 to 75.0,-0.0 to 120.0,2.01,1.602,5.059,-0.246,-17.1 to 3.4
+knee,knee_angle_r,"hip = 0°,  ankle = −15°",Rajagopal2016,41,0.0 to 75.0,-0.0 to 120.0,21.731,14.931,45.99,-14.799,-17.1 to 3.4
+knee,knee_angle_r,"hip = −15°,  ankle = 20°",Davis2026 (ITB model),41,0.0 to 75.0,-0.0 to 120.0,3.617,3.17,7.156,-0.183,-33.1 to 19.9
+knee,knee_angle_r,"hip = −15°,  ankle = 20°",RajagopalLaiUhlrich2023,41,0.0 to 75.0,-0.0 to 120.0,3.881,3.47,6.57,0.336,-33.1 to 19.9
+knee,knee_angle_r,"hip = −15°,  ankle = 20°",Rajagopal2016,41,0.0 to 75.0,-0.0 to 120.0,25.051,18.361,50.86,-14.542,-33.1 to 19.9

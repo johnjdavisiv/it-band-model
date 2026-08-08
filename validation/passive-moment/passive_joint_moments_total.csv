@@ -1,0 +1,1171 @@
+joint,condition,model,angle_deg,total_moment_Nm
+hip,knee = 15°,Davis2026 (ITB model),-15.0,21.04371767815595
+hip,knee = 15°,Davis2026 (ITB model),-13.7,19.916331287419556
+hip,knee = 15°,Davis2026 (ITB model),-12.4,18.815525979734193
+hip,knee = 15°,Davis2026 (ITB model),-11.1,17.74224442278
+hip,knee = 15°,Davis2026 (ITB model),-9.8,16.695824632921795
+hip,knee = 15°,Davis2026 (ITB model),-8.5,15.676772831446826
+hip,knee = 15°,Davis2026 (ITB model),-7.199999999999999,14.686456646964844
+hip,knee = 15°,Davis2026 (ITB model),-5.9,13.726979306682114
+hip,knee = 15°,Davis2026 (ITB model),-4.6,12.801221825443978
+hip,knee = 15°,Davis2026 (ITB model),-3.299999999999999,11.905325480915652
+hip,knee = 15°,Davis2026 (ITB model),-2.0,11.027524754319973
+hip,knee = 15°,Davis2026 (ITB model),-0.6999999999999993,10.167700825668657
+hip,knee = 15°,Davis2026 (ITB model),0.6000000000000014,9.329742697938068
+hip,knee = 15°,Davis2026 (ITB model),1.9000000000000021,8.52398568644152
+hip,knee = 15°,Davis2026 (ITB model),3.1999999999999993,7.752861463607805
+hip,knee = 15°,Davis2026 (ITB model),4.5,7.015296934171771
+hip,knee = 15°,Davis2026 (ITB model),5.800000000000001,6.3098981364985
+hip,knee = 15°,Davis2026 (ITB model),7.100000000000001,5.6350352412682145
+hip,knee = 15°,Davis2026 (ITB model),8.400000000000002,4.988880267540006
+hip,knee = 15°,Davis2026 (ITB model),9.7,4.369446871695502
+hip,knee = 15°,Davis2026 (ITB model),11.0,3.7746423320058233
+hip,knee = 15°,Davis2026 (ITB model),12.3,3.2023053798004706
+hip,knee = 15°,Davis2026 (ITB model),13.600000000000001,2.6500629292437727
+hip,knee = 15°,Davis2026 (ITB model),14.900000000000002,2.1032046832223203
+hip,knee = 15°,Davis2026 (ITB model),16.200000000000003,1.526982454180767
+hip,knee = 15°,Davis2026 (ITB model),17.5,0.9166855040631412
+hip,knee = 15°,Davis2026 (ITB model),18.800000000000004,0.2874072143565519
+hip,knee = 15°,Davis2026 (ITB model),20.1,-0.3366354578844164
+hip,knee = 15°,Davis2026 (ITB model),21.4,-0.9536307168813645
+hip,knee = 15°,Davis2026 (ITB model),22.700000000000003,-1.5654814414039688
+hip,knee = 15°,Davis2026 (ITB model),24.0,-2.1739949371425804
+hip,knee = 15°,Davis2026 (ITB model),25.300000000000004,-2.7808704207322807
+hip,knee = 15°,Davis2026 (ITB model),26.6,-3.3868538123212066
+hip,knee = 15°,Davis2026 (ITB model),27.9,-3.9725533670547044
+hip,knee = 15°,Davis2026 (ITB model),29.200000000000003,-4.522078944550649
+hip,knee = 15°,Davis2026 (ITB model),30.5,-5.095457945926166
+hip,knee = 15°,Davis2026 (ITB model),31.800000000000004,-5.79424996607387
+hip,knee = 15°,Davis2026 (ITB model),33.1,-6.6065571894261454
+hip,knee = 15°,Davis2026 (ITB model),34.4,-7.629727247307826
+hip,knee = 15°,Davis2026 (ITB model),35.7,-8.708376460187372
+hip,knee = 15°,Davis2026 (ITB model),37.0,-9.818733642063844
+hip,knee = 60°,Davis2026 (ITB model),-15.0,26.922976904836922
+hip,knee = 60°,Davis2026 (ITB model),-13.7,25.801865156173257
+hip,knee = 60°,Davis2026 (ITB model),-12.4,24.681226474046944
+hip,knee = 60°,Davis2026 (ITB model),-11.1,23.563020924422247
+hip,knee = 60°,Davis2026 (ITB model),-9.8,22.447767767069042
+hip,knee = 60°,Davis2026 (ITB model),-8.5,21.33730415906516
+hip,knee = 60°,Davis2026 (ITB model),-7.199999999999999,20.234464794309105
+hip,knee = 60°,Davis2026 (ITB model),-5.9,19.142949135427457
+hip,knee = 60°,Davis2026 (ITB model),-4.6,18.067450502273406
+hip,knee = 60°,Davis2026 (ITB model),-3.299999999999999,17.010692365553787
+hip,knee = 60°,Davis2026 (ITB model),-2.0,15.967360399171215
+hip,knee = 60°,Davis2026 (ITB model),-0.6999999999999993,14.929296350275445
+hip,knee = 60°,Davis2026 (ITB model),0.6000000000000014,13.899370345204968
+hip,knee = 60°,Davis2026 (ITB model),1.9000000000000021,12.884978006589492
+hip,knee = 60°,Davis2026 (ITB model),3.1999999999999993,11.897044362334405
+hip,knee = 60°,Davis2026 (ITB model),4.5,10.938052259299196
+hip,knee = 60°,Davis2026 (ITB model),5.800000000000001,10.008149074085097
+hip,knee = 60°,Davis2026 (ITB model),7.100000000000001,9.107022201442955
+hip,knee = 60°,Davis2026 (ITB model),8.400000000000002,8.233921381193118
+hip,knee = 60°,Davis2026 (ITB model),9.7,7.387693101018965
+hip,knee = 60°,Davis2026 (ITB model),11.0,6.5668399831153765
+hip,knee = 60°,Davis2026 (ITB model),12.3,5.769573031593504
+hip,knee = 60°,Davis2026 (ITB model),13.600000000000001,4.993844779335178
+hip,knee = 60°,Davis2026 (ITB model),14.900000000000002,4.237395319232117
+hip,knee = 60°,Davis2026 (ITB model),16.200000000000003,3.4978322279997194
+hip,knee = 60°,Davis2026 (ITB model),17.5,2.772680393965268
+hip,knee = 60°,Davis2026 (ITB model),18.800000000000004,2.059420686619077
+hip,knee = 60°,Davis2026 (ITB model),20.1,1.355542770360266
+hip,knee = 60°,Davis2026 (ITB model),21.4,0.6581450516195124
+hip,knee = 60°,Davis2026 (ITB model),22.700000000000003,-0.04772480336444452
+hip,knee = 60°,Davis2026 (ITB model),24.0,-0.7563582761200114
+hip,knee = 60°,Davis2026 (ITB model),25.300000000000004,-1.3756668521733089
+hip,knee = 60°,Davis2026 (ITB model),26.6,-1.908156711318074
+hip,knee = 60°,Davis2026 (ITB model),27.9,-2.4297983988984373
+hip,knee = 60°,Davis2026 (ITB model),29.200000000000003,-2.9455452271445157
+hip,knee = 60°,Davis2026 (ITB model),30.5,-3.4495044047238914
+hip,knee = 60°,Davis2026 (ITB model),31.800000000000004,-3.936496262310252
+hip,knee = 60°,Davis2026 (ITB model),33.1,-4.415094758155342
+hip,knee = 60°,Davis2026 (ITB model),34.4,-4.8890289765373005
+hip,knee = 60°,Davis2026 (ITB model),35.7,-5.324252837976322
+hip,knee = 60°,Davis2026 (ITB model),37.0,-5.727236174085425
+hip,knee = 15°,RajagopalLaiUhlrich2023,-15.0,19.689300795720932
+hip,knee = 15°,RajagopalLaiUhlrich2023,-13.7,18.54863406127818
+hip,knee = 15°,RajagopalLaiUhlrich2023,-12.4,17.440860434635255
+hip,knee = 15°,RajagopalLaiUhlrich2023,-11.1,16.3667578431802
+hip,knee = 15°,RajagopalLaiUhlrich2023,-9.8,15.325603871223086
+hip,knee = 15°,RajagopalLaiUhlrich2023,-8.5,14.317790303866186
+hip,knee = 15°,RajagopalLaiUhlrich2023,-7.199999999999999,13.344516580962711
+hip,knee = 15°,RajagopalLaiUhlrich2023,-5.9,12.407660532525544
+hip,knee = 15°,RajagopalLaiUhlrich2023,-4.6,11.509918868656804
+hip,knee = 15°,RajagopalLaiUhlrich2023,-3.299999999999999,10.65223104087536
+hip,knee = 15°,RajagopalLaiUhlrich2023,-2.0,9.83459483578391
+hip,knee = 15°,RajagopalLaiUhlrich2023,-0.6999999999999993,9.056626037756834
+hip,knee = 15°,RajagopalLaiUhlrich2023,0.6000000000000014,8.31758925395402
+hip,knee = 15°,RajagopalLaiUhlrich2023,1.9000000000000021,7.616416438532157
+hip,knee = 15°,RajagopalLaiUhlrich2023,3.1999999999999993,6.951723116647524
+hip,knee = 15°,RajagopalLaiUhlrich2023,4.5,6.32183888545507
+hip,knee = 15°,RajagopalLaiUhlrich2023,5.800000000000001,5.724850182490769
+hip,knee = 15°,RajagopalLaiUhlrich2023,7.100000000000001,5.15865184762117
+hip,knee = 15°,RajagopalLaiUhlrich2023,8.400000000000002,4.621004152171238
+hip,knee = 15°,RajagopalLaiUhlrich2023,9.7,4.109591596122406
+hip,knee = 15°,RajagopalLaiUhlrich2023,11.0,3.622092126287031
+hip,knee = 15°,RajagopalLaiUhlrich2023,12.3,3.1562262151784566
+hip,knee = 15°,RajagopalLaiUhlrich2023,13.600000000000001,2.709765073316452
+hip,knee = 15°,RajagopalLaiUhlrich2023,14.900000000000002,2.278131370995377
+hip,knee = 15°,RajagopalLaiUhlrich2023,16.200000000000003,1.8485567825312
+hip,knee = 15°,RajagopalLaiUhlrich2023,17.5,1.4155044233281953
+hip,knee = 15°,RajagopalLaiUhlrich2023,18.800000000000004,0.9800268323521466
+hip,knee = 15°,RajagopalLaiUhlrich2023,20.1,0.5509875555765139
+hip,knee = 15°,RajagopalLaiUhlrich2023,21.4,0.12925778733501614
+hip,knee = 15°,RajagopalLaiUhlrich2023,22.700000000000003,-0.28646705883884765
+hip,knee = 15°,RajagopalLaiUhlrich2023,24.0,-0.6973860714877843
+hip,knee = 15°,RajagopalLaiUhlrich2023,25.300000000000004,-1.1046022349234885
+hip,knee = 15°,RajagopalLaiUhlrich2023,26.6,-1.5091289981714553
+hip,knee = 15°,RajagopalLaiUhlrich2023,27.9,-1.9118975832120209
+hip,knee = 15°,RajagopalLaiUhlrich2023,29.200000000000003,-2.313456879289831
+hip,knee = 15°,RajagopalLaiUhlrich2023,30.5,-2.7461931013100327
+hip,knee = 15°,RajagopalLaiUhlrich2023,31.800000000000004,-3.2987924286880097
+hip,knee = 15°,RajagopalLaiUhlrich2023,33.1,-3.954331154463271
+hip,knee = 15°,RajagopalLaiUhlrich2023,34.4,-4.811898610274161
+hip,knee = 15°,RajagopalLaiUhlrich2023,35.7,-5.723206108323886
+hip,knee = 15°,RajagopalLaiUhlrich2023,37.0,-6.677904626915903
+hip,knee = 60°,RajagopalLaiUhlrich2023,-15.0,25.066138645964188
+hip,knee = 60°,RajagopalLaiUhlrich2023,-13.7,23.90242244669121
+hip,knee = 60°,RajagopalLaiUhlrich2023,-12.4,22.745419031837923
+hip,knee = 60°,RajagopalLaiUhlrich2023,-11.1,21.597388471832467
+hip,knee = 60°,RajagopalLaiUhlrich2023,-9.8,20.459121070545216
+hip,knee = 60°,RajagopalLaiUhlrich2023,-8.5,19.33267831236539
+hip,knee = 60°,RajagopalLaiUhlrich2023,-7.199999999999999,18.221062137024898
+hip,knee = 60°,RajagopalLaiUhlrich2023,-5.9,17.12806787642417
+hip,knee = 60°,RajagopalLaiUhlrich2023,-4.6,16.05839973097124
+hip,knee = 60°,RajagopalLaiUhlrich2023,-3.299999999999999,15.015070733181153
+hip,knee = 60°,RajagopalLaiUhlrich2023,-2.0,14.00018517428744
+hip,knee = 60°,RajagopalLaiUhlrich2023,-0.6999999999999993,13.015456412511702
+hip,knee = 60°,RajagopalLaiUhlrich2023,0.6000000000000014,12.062186325910496
+hip,knee = 60°,RajagopalLaiUhlrich2023,1.9000000000000021,11.141224531170188
+hip,knee = 60°,RajagopalLaiUhlrich2023,3.1999999999999993,10.252920484628486
+hip,knee = 60°,RajagopalLaiUhlrich2023,4.5,9.397092857164557
+hip,knee = 60°,RajagopalLaiUhlrich2023,5.800000000000001,8.573270544589445
+hip,knee = 60°,RajagopalLaiUhlrich2023,7.100000000000001,7.787721337027061
+hip,knee = 60°,RajagopalLaiUhlrich2023,8.400000000000002,7.047137266687575
+hip,knee = 60°,RajagopalLaiUhlrich2023,9.7,6.340267636334855
+hip,knee = 60°,RajagopalLaiUhlrich2023,11.0,5.660238368954507
+hip,knee = 60°,RajagopalLaiUhlrich2023,12.3,5.004379093587909
+hip,knee = 60°,RajagopalLaiUhlrich2023,13.600000000000001,4.369781470265512
+hip,knee = 60°,RajagopalLaiUhlrich2023,14.900000000000002,3.7533832658202515
+hip,knee = 60°,RajagopalLaiUhlrich2023,16.200000000000003,3.1520883636470938
+hip,knee = 60°,RajagopalLaiUhlrich2023,17.5,2.562856750628785
+hip,knee = 60°,RajagopalLaiUhlrich2023,18.800000000000004,1.9827763990727323
+hip,knee = 60°,RajagopalLaiUhlrich2023,20.1,1.409138140455838
+hip,knee = 60°,RajagopalLaiUhlrich2023,21.4,0.8395057106038413
+hip,knee = 60°,RajagopalLaiUhlrich2023,22.700000000000003,0.27181128314109265
+hip,knee = 60°,RajagopalLaiUhlrich2023,24.0,-0.2710796283481705
+hip,knee = 60°,RajagopalLaiUhlrich2023,25.300000000000004,-0.6994151722232964
+hip,knee = 60°,RajagopalLaiUhlrich2023,26.6,-1.0295884004404872
+hip,knee = 60°,RajagopalLaiUhlrich2023,27.9,-1.3498101861272505
+hip,knee = 60°,RajagopalLaiUhlrich2023,29.200000000000003,-1.6653164522516843
+hip,knee = 60°,RajagopalLaiUhlrich2023,30.5,-1.969238090271593
+hip,knee = 60°,RajagopalLaiUhlrich2023,31.800000000000004,-2.2507339506216684
+hip,knee = 60°,RajagopalLaiUhlrich2023,33.1,-2.5127650781362387
+hip,knee = 60°,RajagopalLaiUhlrich2023,34.4,-2.765391887444844
+hip,knee = 60°,RajagopalLaiUhlrich2023,35.7,-3.0173367960942046
+hip,knee = 60°,RajagopalLaiUhlrich2023,37.0,-3.2821656956468996
+hip,knee = 15°,Rajagopal2016,-15.0,5.650849134716607
+hip,knee = 15°,Rajagopal2016,-13.7,5.307390059876502
+hip,knee = 15°,Rajagopal2016,-12.4,4.971884613935944
+hip,knee = 15°,Rajagopal2016,-11.1,4.64239340780408
+hip,knee = 15°,Rajagopal2016,-9.8,4.316966727365945
+hip,knee = 15°,Rajagopal2016,-8.5,3.992950461957154
+hip,knee = 15°,Rajagopal2016,-7.199999999999999,3.666397636328053
+hip,knee = 15°,Rajagopal2016,-5.9,3.333805637576217
+hip,knee = 15°,Rajagopal2016,-4.6,2.99269508234799
+hip,knee = 15°,Rajagopal2016,-3.299999999999999,2.63313045113203
+hip,knee = 15°,Rajagopal2016,-2.0,2.237948727591972
+hip,knee = 15°,Rajagopal2016,-0.6999999999999993,1.80436892816653
+hip,knee = 15°,Rajagopal2016,0.6000000000000014,1.3577333093957142
+hip,knee = 15°,Rajagopal2016,1.9000000000000021,0.9199439556053383
+hip,knee = 15°,Rajagopal2016,3.1999999999999993,0.5056511386621444
+hip,knee = 15°,Rajagopal2016,4.5,0.12715657932055635
+hip,knee = 15°,Rajagopal2016,5.800000000000001,-0.2346008933884428
+hip,knee = 15°,Rajagopal2016,7.100000000000001,-0.640419982850401
+hip,knee = 15°,Rajagopal2016,8.400000000000002,-1.0995825451722372
+hip,knee = 15°,Rajagopal2016,9.7,-1.5816398652990125
+hip,knee = 15°,Rajagopal2016,11.0,-2.0641391192783813
+hip,knee = 15°,Rajagopal2016,12.3,-2.5474906892885385
+hip,knee = 15°,Rajagopal2016,13.600000000000001,-3.034684015277008
+hip,knee = 15°,Rajagopal2016,14.900000000000002,-3.526657274990978
+hip,knee = 15°,Rajagopal2016,16.200000000000003,-4.049790289574945
+hip,knee = 15°,Rajagopal2016,17.5,-4.768247250946511
+hip,knee = 15°,Rajagopal2016,18.800000000000004,-5.712533800975338
+hip,knee = 15°,Rajagopal2016,20.1,-6.803091200091441
+hip,knee = 15°,Rajagopal2016,21.4,-7.9730340946178435
+hip,knee = 15°,Rajagopal2016,22.700000000000003,-9.20755049768649
+hip,knee = 15°,Rajagopal2016,24.0,-10.507653031583034
+hip,knee = 15°,Rajagopal2016,25.300000000000004,-11.886497136872041
+hip,knee = 15°,Rajagopal2016,26.6,-13.358422047017582
+hip,knee = 15°,Rajagopal2016,27.9,-14.936601104365913
+hip,knee = 15°,Rajagopal2016,29.200000000000003,-16.636657366375207
+hip,knee = 15°,Rajagopal2016,30.5,-18.478106658665784
+hip,knee = 15°,Rajagopal2016,31.800000000000004,-20.479540437463495
+hip,knee = 15°,Rajagopal2016,33.1,-22.66240044285674
+hip,knee = 15°,Rajagopal2016,34.4,-25.045480034775018
+hip,knee = 15°,Rajagopal2016,35.7,-27.64108086411529
+hip,knee = 15°,Rajagopal2016,37.0,-30.465096569868496
+hip,knee = 60°,Rajagopal2016,-15.0,21.088735246392865
+hip,knee = 60°,Rajagopal2016,-13.7,21.00160738264843
+hip,knee = 60°,Rajagopal2016,-12.4,20.87505994514681
+hip,knee = 60°,Rajagopal2016,-11.1,20.707363662098988
+hip,knee = 60°,Rajagopal2016,-9.8,20.49716990296214
+hip,knee = 60°,Rajagopal2016,-8.5,20.243546904485076
+hip,knee = 60°,Rajagopal2016,-7.199999999999999,19.946019257972083
+hip,knee = 60°,Rajagopal2016,-5.9,19.604616346964484
+hip,knee = 60°,Rajagopal2016,-4.6,19.219505486355875
+hip,knee = 60°,Rajagopal2016,-3.299999999999999,18.784246543243768
+hip,knee = 60°,Rajagopal2016,-2.0,18.278237477071134
+hip,knee = 60°,Rajagopal2016,-0.6999999999999993,17.669105586506394
+hip,knee = 60°,Rajagopal2016,0.6000000000000014,16.964173835584113
+hip,knee = 60°,Rajagopal2016,1.9000000000000021,16.20134516924061
+hip,knee = 60°,Rajagopal2016,3.1999999999999993,15.427554913553061
+hip,knee = 60°,Rajagopal2016,4.5,14.65789225515789
+hip,knee = 60°,Rajagopal2016,5.800000000000001,13.873904594355567
+hip,knee = 60°,Rajagopal2016,7.100000000000001,13.015246081492961
+hip,knee = 60°,Rajagopal2016,8.400000000000002,12.07096426544847
+hip,knee = 60°,Rajagopal2016,9.7,11.071912802401126
+hip,knee = 60°,Rajagopal2016,11.0,10.043944067443887
+hip,knee = 60°,Rajagopal2016,12.3,8.996662855269163
+hip,knee = 60°,Rajagopal2016,13.600000000000001,7.935244602700271
+hip,knee = 60°,Rajagopal2016,14.900000000000002,6.864680452408986
+hip,knee = 60°,Rajagopal2016,16.200000000000003,5.776253960625124
+hip,knee = 60°,Rajagopal2016,17.5,4.6696944922115655
+hip,knee = 60°,Rajagopal2016,18.800000000000004,3.5512909527390617
+hip,knee = 60°,Rajagopal2016,20.1,2.427699572905144
+hip,knee = 60°,Rajagopal2016,21.4,1.3005074026391346
+hip,knee = 60°,Rajagopal2016,22.700000000000003,0.1642441384763635
+hip,knee = 60°,Rajagopal2016,24.0,-0.9594208849640747
+hip,knee = 60°,Rajagopal2016,25.300000000000004,-2.0701074221672866
+hip,knee = 60°,Rajagopal2016,26.6,-3.1804127148684773
+hip,knee = 60°,Rajagopal2016,27.9,-4.289604696230016
+hip,knee = 60°,Rajagopal2016,29.200000000000003,-5.396552968484468
+hip,knee = 60°,Rajagopal2016,30.5,-6.504268065668973
+hip,knee = 60°,Rajagopal2016,31.800000000000004,-7.616257514425546
+hip,knee = 60°,Rajagopal2016,33.1,-8.742100305306407
+hip,knee = 60°,Rajagopal2016,34.4,-9.900171141783696
+hip,knee = 60°,Rajagopal2016,35.7,-11.102786295496083
+hip,knee = 60°,Rajagopal2016,37.0,-12.361663257223732
+knee,"hip = 0°,  ankle = 20°",Davis2026 (ITB model),0.0,12.952400982189568
+knee,"hip = 0°,  ankle = 20°",Davis2026 (ITB model),1.875,12.354964247510267
+knee,"hip = 0°,  ankle = 20°",Davis2026 (ITB model),3.75,11.78960228642574
+knee,"hip = 0°,  ankle = 20°",Davis2026 (ITB model),5.625,11.25149745908821
+knee,"hip = 0°,  ankle = 20°",Davis2026 (ITB model),7.5,10.736548165299325
+knee,"hip = 0°,  ankle = 20°",Davis2026 (ITB model),9.375,10.23827648180559
+knee,"hip = 0°,  ankle = 20°",Davis2026 (ITB model),11.25,9.758702181714678
+knee,"hip = 0°,  ankle = 20°",Davis2026 (ITB model),13.125,9.293786834062855
+knee,"hip = 0°,  ankle = 20°",Davis2026 (ITB model),15.0,8.840423246397357
+knee,"hip = 0°,  ankle = 20°",Davis2026 (ITB model),16.875,8.398102802022763
+knee,"hip = 0°,  ankle = 20°",Davis2026 (ITB model),18.75,7.9685661634794425
+knee,"hip = 0°,  ankle = 20°",Davis2026 (ITB model),20.625,7.548572126497348
+knee,"hip = 0°,  ankle = 20°",Davis2026 (ITB model),22.5,7.140667079997793
+knee,"hip = 0°,  ankle = 20°",Davis2026 (ITB model),24.375,6.743707015327408
+knee,"hip = 0°,  ankle = 20°",Davis2026 (ITB model),26.25,6.362223722836847
+knee,"hip = 0°,  ankle = 20°",Davis2026 (ITB model),28.125,5.9953725338490775
+knee,"hip = 0°,  ankle = 20°",Davis2026 (ITB model),30.0,5.646024379105594
+knee,"hip = 0°,  ankle = 20°",Davis2026 (ITB model),31.875,5.316787594306823
+knee,"hip = 0°,  ankle = 20°",Davis2026 (ITB model),33.75,5.005130403281715
+knee,"hip = 0°,  ankle = 20°",Davis2026 (ITB model),35.625,4.710645485111086
+knee,"hip = 0°,  ankle = 20°",Davis2026 (ITB model),37.5,4.326063973835468
+knee,"hip = 0°,  ankle = 20°",Davis2026 (ITB model),39.375,3.726262419042562
+knee,"hip = 0°,  ankle = 20°",Davis2026 (ITB model),41.25,3.118584121986488
+knee,"hip = 0°,  ankle = 20°",Davis2026 (ITB model),43.125,2.5205654848227295
+knee,"hip = 0°,  ankle = 20°",Davis2026 (ITB model),45.0,1.92181702511525
+knee,"hip = 0°,  ankle = 20°",Davis2026 (ITB model),46.875,1.3130689862571412
+knee,"hip = 0°,  ankle = 20°",Davis2026 (ITB model),48.75,0.753327446225292
+knee,"hip = 0°,  ankle = 20°",Davis2026 (ITB model),50.625,0.23774530756451293
+knee,"hip = 0°,  ankle = 20°",Davis2026 (ITB model),52.5,-0.3064249653912413
+knee,"hip = 0°,  ankle = 20°",Davis2026 (ITB model),54.375,-0.8812325298284005
+knee,"hip = 0°,  ankle = 20°",Davis2026 (ITB model),56.25,-1.4869707321376384
+knee,"hip = 0°,  ankle = 20°",Davis2026 (ITB model),58.125,-2.119880298877783
+knee,"hip = 0°,  ankle = 20°",Davis2026 (ITB model),60.0,-2.7716725398769992
+knee,"hip = 0°,  ankle = 20°",Davis2026 (ITB model),61.875,-3.4381425684793463
+knee,"hip = 0°,  ankle = 20°",Davis2026 (ITB model),63.75,-4.118458547985559
+knee,"hip = 0°,  ankle = 20°",Davis2026 (ITB model),65.625,-4.804594343469389
+knee,"hip = 0°,  ankle = 20°",Davis2026 (ITB model),67.5,-5.487969002053283
+knee,"hip = 0°,  ankle = 20°",Davis2026 (ITB model),69.375,-6.159530253479584
+knee,"hip = 0°,  ankle = 20°",Davis2026 (ITB model),71.25,-6.81194005966576
+knee,"hip = 0°,  ankle = 20°",Davis2026 (ITB model),73.125,-7.443014264272493
+knee,"hip = 0°,  ankle = 20°",Davis2026 (ITB model),75.0,-8.04626367980155
+knee,"hip = 0°,  ankle = −15°",Davis2026 (ITB model),0.0,1.4692162551231345
+knee,"hip = 0°,  ankle = −15°",Davis2026 (ITB model),1.875,1.3811227662773244
+knee,"hip = 0°,  ankle = −15°",Davis2026 (ITB model),3.75,1.2980646551008295
+knee,"hip = 0°,  ankle = −15°",Davis2026 (ITB model),5.625,1.218798963462141
+knee,"hip = 0°,  ankle = −15°",Davis2026 (ITB model),7.5,1.1432042880915008
+knee,"hip = 0°,  ankle = −15°",Davis2026 (ITB model),9.375,1.070435345925633
+knee,"hip = 0°,  ankle = −15°",Davis2026 (ITB model),11.25,1.0001204951403069
+knee,"hip = 0°,  ankle = −15°",Davis2026 (ITB model),13.125,0.931953162812762
+knee,"hip = 0°,  ankle = −15°",Davis2026 (ITB model),15.0,0.8655970192724955
+knee,"hip = 0°,  ankle = −15°",Davis2026 (ITB model),16.875,0.8006980772447455
+knee,"hip = 0°,  ankle = −15°",Davis2026 (ITB model),18.75,0.7372059582142004
+knee,"hip = 0°,  ankle = −15°",Davis2026 (ITB model),20.625,0.6749471450371021
+knee,"hip = 0°,  ankle = −15°",Davis2026 (ITB model),22.5,0.6155841143775186
+knee,"hip = 0°,  ankle = −15°",Davis2026 (ITB model),24.375,0.5623550504537328
+knee,"hip = 0°,  ankle = −15°",Davis2026 (ITB model),26.25,0.5176873429654114
+knee,"hip = 0°,  ankle = −15°",Davis2026 (ITB model),28.125,0.48261830467625966
+knee,"hip = 0°,  ankle = −15°",Davis2026 (ITB model),30.0,0.460582180713043
+knee,"hip = 0°,  ankle = −15°",Davis2026 (ITB model),31.875,0.4488457897802235
+knee,"hip = 0°,  ankle = −15°",Davis2026 (ITB model),33.75,0.4426816626102769
+knee,"hip = 0°,  ankle = −15°",Davis2026 (ITB model),35.625,0.4388675468019916
+knee,"hip = 0°,  ankle = −15°",Davis2026 (ITB model),37.5,0.3426256434595769
+knee,"hip = 0°,  ankle = −15°",Davis2026 (ITB model),39.375,0.04587535140651665
+knee,"hip = 0°,  ankle = −15°",Davis2026 (ITB model),41.25,-0.2675740792045502
+knee,"hip = 0°,  ankle = −15°",Davis2026 (ITB model),43.125,-0.576969739202368
+knee,"hip = 0°,  ankle = −15°",Davis2026 (ITB model),45.0,-0.8892839609416898
+knee,"hip = 0°,  ankle = −15°",Davis2026 (ITB model),46.875,-1.2129561143695529
+knee,"hip = 0°,  ankle = −15°",Davis2026 (ITB model),48.75,-1.5580017102185526
+knee,"hip = 0°,  ankle = −15°",Davis2026 (ITB model),50.625,-1.9354316775293905
+knee,"hip = 0°,  ankle = −15°",Davis2026 (ITB model),52.5,-2.346434135473147
+knee,"hip = 0°,  ankle = −15°",Davis2026 (ITB model),54.375,-2.791756945726333
+knee,"hip = 0°,  ankle = −15°",Davis2026 (ITB model),56.25,-3.2714883488274706
+knee,"hip = 0°,  ankle = −15°",Davis2026 (ITB model),58.125,-3.7817859577115764
+knee,"hip = 0°,  ankle = −15°",Davis2026 (ITB model),60.0,-4.314064375155938
+knee,"hip = 0°,  ankle = −15°",Davis2026 (ITB model),61.875,-4.863904124907316
+knee,"hip = 0°,  ankle = −15°",Davis2026 (ITB model),63.75,-5.430133997526599
+knee,"hip = 0°,  ankle = −15°",Davis2026 (ITB model),65.625,-6.00443209207625
+knee,"hip = 0°,  ankle = −15°",Davis2026 (ITB model),67.5,-6.577817442387907
+knee,"hip = 0°,  ankle = −15°",Davis2026 (ITB model),69.375,-7.140936556945666
+knee,"hip = 0°,  ankle = −15°",Davis2026 (ITB model),71.25,-7.685996111553054
+knee,"hip = 0°,  ankle = −15°",Davis2026 (ITB model),73.125,-8.210421250580195
+knee,"hip = 0°,  ankle = −15°",Davis2026 (ITB model),75.0,-8.707349225790328
+knee,"hip = −15°,  ankle = 20°",Davis2026 (ITB model),0.0,12.773318180903972
+knee,"hip = −15°,  ankle = 20°",Davis2026 (ITB model),1.875,12.167540281887261
+knee,"hip = −15°,  ankle = 20°",Davis2026 (ITB model),3.75,11.59444473669395
+knee,"hip = −15°,  ankle = 20°",Davis2026 (ITB model),5.625,11.049307928549041
+knee,"hip = −15°,  ankle = 20°",Davis2026 (ITB model),7.5,10.528112115301477
+knee,"hip = −15°,  ankle = 20°",Davis2026 (ITB model),9.375,10.024453841814436
+knee,"hip = −15°,  ankle = 20°",Davis2026 (ITB model),11.25,9.540416703419126
+knee,"hip = −15°,  ankle = 20°",Davis2026 (ITB model),13.125,9.072014587020265
+knee,"hip = −15°,  ankle = 20°",Davis2026 (ITB model),15.0,8.616180690385029
+knee,"hip = −15°,  ankle = 20°",Davis2026 (ITB model),16.875,8.172434803827354
+knee,"hip = −15°,  ankle = 20°",Davis2026 (ITB model),18.75,7.7425344207375035
+knee,"hip = −15°,  ankle = 20°",Davis2026 (ITB model),20.625,7.32324399822343
+knee,"hip = −15°,  ankle = 20°",Davis2026 (ITB model),22.5,6.917105400788916
+knee,"hip = −15°,  ankle = 20°",Davis2026 (ITB model),24.375,6.522960727109815
+knee,"hip = −15°,  ankle = 20°",Davis2026 (ITB model),26.25,6.14507261055917
+knee,"hip = −15°,  ankle = 20°",Davis2026 (ITB model),28.125,5.663330708519053
+knee,"hip = −15°,  ankle = 20°",Davis2026 (ITB model),30.0,4.98988773187973
+knee,"hip = −15°,  ankle = 20°",Davis2026 (ITB model),31.875,4.3190240834396425
+knee,"hip = −15°,  ankle = 20°",Davis2026 (ITB model),33.75,3.664260949595005
+knee,"hip = −15°,  ankle = 20°",Davis2026 (ITB model),35.625,3.021336940610905
+knee,"hip = −15°,  ankle = 20°",Davis2026 (ITB model),37.5,2.3721389520476115
+knee,"hip = −15°,  ankle = 20°",Davis2026 (ITB model),39.375,1.7003218062958707
+knee,"hip = −15°,  ankle = 20°",Davis2026 (ITB model),41.25,1.017538836360102
+knee,"hip = −15°,  ankle = 20°",Davis2026 (ITB model),43.125,0.30528479456918
+knee,"hip = −15°,  ankle = 20°",Davis2026 (ITB model),45.0,-0.4508064509488521
+knee,"hip = −15°,  ankle = 20°",Davis2026 (ITB model),46.875,-1.262156487586723
+knee,"hip = −15°,  ankle = 20°",Davis2026 (ITB model),48.75,-2.0704813949085508
+knee,"hip = −15°,  ankle = 20°",Davis2026 (ITB model),50.625,-2.879262130186172
+knee,"hip = −15°,  ankle = 20°",Davis2026 (ITB model),52.5,-3.745267590773843
+knee,"hip = −15°,  ankle = 20°",Davis2026 (ITB model),54.375,-4.655313189774736
+knee,"hip = −15°,  ankle = 20°",Davis2026 (ITB model),56.25,-5.595839407081779
+knee,"hip = −15°,  ankle = 20°",Davis2026 (ITB model),58.125,-6.548588844749321
+knee,"hip = −15°,  ankle = 20°",Davis2026 (ITB model),60.0,-7.490487933294181
+knee,"hip = −15°,  ankle = 20°",Davis2026 (ITB model),61.875,-8.41095476996544
+knee,"hip = −15°,  ankle = 20°",Davis2026 (ITB model),63.75,-9.307699147240823
+knee,"hip = −15°,  ankle = 20°",Davis2026 (ITB model),65.625,-10.16616953864225
+knee,"hip = −15°,  ankle = 20°",Davis2026 (ITB model),67.5,-10.97335645282882
+knee,"hip = −15°,  ankle = 20°",Davis2026 (ITB model),69.375,-11.718728499364337
+knee,"hip = −15°,  ankle = 20°",Davis2026 (ITB model),71.25,-12.401019824995698
+knee,"hip = −15°,  ankle = 20°",Davis2026 (ITB model),73.125,-13.031881255364986
+knee,"hip = −15°,  ankle = 20°",Davis2026 (ITB model),75.0,-13.614492769789873
+knee,"hip = 0°,  ankle = 20°",RajagopalLaiUhlrich2023,0.0,13.25384791665592
+knee,"hip = 0°,  ankle = 20°",RajagopalLaiUhlrich2023,1.875,12.67656896239578
+knee,"hip = 0°,  ankle = 20°",RajagopalLaiUhlrich2023,3.75,12.13071732591342
+knee,"hip = 0°,  ankle = 20°",RajagopalLaiUhlrich2023,5.625,11.61139441939318
+knee,"hip = 0°,  ankle = 20°",RajagopalLaiUhlrich2023,7.5,11.114406822709354
+knee,"hip = 0°,  ankle = 20°",RajagopalLaiUhlrich2023,9.375,10.633171449674268
+knee,"hip = 0°,  ankle = 20°",RajagopalLaiUhlrich2023,11.25,10.169593117194657
+knee,"hip = 0°,  ankle = 20°",RajagopalLaiUhlrich2023,13.125,9.719512219371916
+knee,"hip = 0°,  ankle = 20°",RajagopalLaiUhlrich2023,15.0,9.279697714664634
+knee,"hip = 0°,  ankle = 20°",RajagopalLaiUhlrich2023,16.875,8.849517905545786
+knee,"hip = 0°,  ankle = 20°",RajagopalLaiUhlrich2023,18.75,8.430594422307765
+knee,"hip = 0°,  ankle = 20°",RajagopalLaiUhlrich2023,20.625,8.019574113462761
+knee,"hip = 0°,  ankle = 20°",RajagopalLaiUhlrich2023,22.5,7.618901242604048
+knee,"hip = 0°,  ankle = 20°",RajagopalLaiUhlrich2023,24.375,7.2273418799442535
+knee,"hip = 0°,  ankle = 20°",RajagopalLaiUhlrich2023,26.25,6.849352116717734
+knee,"hip = 0°,  ankle = 20°",RajagopalLaiUhlrich2023,28.125,6.48402727953524
+knee,"hip = 0°,  ankle = 20°",RajagopalLaiUhlrich2023,30.0,6.134195268761043
+knee,"hip = 0°,  ankle = 20°",RajagopalLaiUhlrich2023,31.875,5.802439008563385
+knee,"hip = 0°,  ankle = 20°",RajagopalLaiUhlrich2023,33.75,5.4862192686461375
+knee,"hip = 0°,  ankle = 20°",RajagopalLaiUhlrich2023,35.625,5.185139172130053
+knee,"hip = 0°,  ankle = 20°",RajagopalLaiUhlrich2023,37.5,4.791957790533018
+knee,"hip = 0°,  ankle = 20°",RajagopalLaiUhlrich2023,39.375,4.181521215558172
+knee,"hip = 0°,  ankle = 20°",RajagopalLaiUhlrich2023,41.25,3.560181783882175
+knee,"hip = 0°,  ankle = 20°",RajagopalLaiUhlrich2023,43.125,2.944749279226392
+knee,"hip = 0°,  ankle = 20°",RajagopalLaiUhlrich2023,45.0,2.325283323685254
+knee,"hip = 0°,  ankle = 20°",RajagopalLaiUhlrich2023,46.875,1.693567286104666
+knee,"hip = 0°,  ankle = 20°",RajagopalLaiUhlrich2023,48.75,1.1095560685723023
+knee,"hip = 0°,  ankle = 20°",RajagopalLaiUhlrich2023,50.625,0.568605970609741
+knee,"hip = 0°,  ankle = 20°",RajagopalLaiUhlrich2023,52.5,-0.0019126809062973656
+knee,"hip = 0°,  ankle = 20°",RajagopalLaiUhlrich2023,54.375,-0.6039268623903998
+knee,"hip = 0°,  ankle = 20°",RajagopalLaiUhlrich2023,56.25,-1.2376044071407486
+knee,"hip = 0°,  ankle = 20°",RajagopalLaiUhlrich2023,58.125,-1.8990582133391032
+knee,"hip = 0°,  ankle = 20°",RajagopalLaiUhlrich2023,60.0,-2.579870464351546
+knee,"hip = 0°,  ankle = 20°",RajagopalLaiUhlrich2023,61.875,-3.275706842794292
+knee,"hip = 0°,  ankle = 20°",RajagopalLaiUhlrich2023,63.75,-3.9856067309319796
+knee,"hip = 0°,  ankle = 20°",RajagopalLaiUhlrich2023,65.625,-4.701416773322989
+knee,"hip = 0°,  ankle = 20°",RajagopalLaiUhlrich2023,67.5,-5.414431212345846
+knee,"hip = 0°,  ankle = 20°",RajagopalLaiUhlrich2023,69.375,-6.115476205564734
+knee,"hip = 0°,  ankle = 20°",RajagopalLaiUhlrich2023,71.25,-6.797096144057004
+knee,"hip = 0°,  ankle = 20°",RajagopalLaiUhlrich2023,73.125,-7.456994024514116
+knee,"hip = 0°,  ankle = 20°",RajagopalLaiUhlrich2023,75.0,-8.088573203329844
+knee,"hip = 0°,  ankle = −15°",RajagopalLaiUhlrich2023,0.0,1.7706631894673148
+knee,"hip = 0°,  ankle = −15°",RajagopalLaiUhlrich2023,1.875,1.7027274811500948
+knee,"hip = 0°,  ankle = −15°",RajagopalLaiUhlrich2023,3.75,1.6391796945662045
+knee,"hip = 0°,  ankle = −15°",RajagopalLaiUhlrich2023,5.625,1.5786959237423543
+knee,"hip = 0°,  ankle = −15°",RajagopalLaiUhlrich2023,7.5,1.5210629454757127
+knee,"hip = 0°,  ankle = −15°",RajagopalLaiUhlrich2023,9.375,1.4653303137668403
+knee,"hip = 0°,  ankle = −15°",RajagopalLaiUhlrich2023,11.25,1.4110114305916481
+knee,"hip = 0°,  ankle = −15°",RajagopalLaiUhlrich2023,13.125,1.357678548092512
+knee,"hip = 0°,  ankle = −15°",RajagopalLaiUhlrich2023,15.0,1.3048714875078473
+knee,"hip = 0°,  ankle = −15°",RajagopalLaiUhlrich2023,16.875,1.2521131807344283
+knee,"hip = 0°,  ankle = −15°",RajagopalLaiUhlrich2023,18.75,1.1992342170073849
+knee,"hip = 0°,  ankle = −15°",RajagopalLaiUhlrich2023,20.625,1.1459491319643285
+knee,"hip = 0°,  ankle = −15°",RajagopalLaiUhlrich2023,22.5,1.093818276944004
+knee,"hip = 0°,  ankle = −15°",RajagopalLaiUhlrich2023,24.375,1.0459899150290544
+knee,"hip = 0°,  ankle = −15°",RajagopalLaiUhlrich2023,26.25,1.0048157368034247
+knee,"hip = 0°,  ankle = −15°",RajagopalLaiUhlrich2023,28.125,0.9712730503316278
+knee,"hip = 0°,  ankle = −15°",RajagopalLaiUhlrich2023,30.0,0.9487530703371522
+knee,"hip = 0°,  ankle = −15°",RajagopalLaiUhlrich2023,31.875,0.9344972040044616
+knee,"hip = 0°,  ankle = −15°",RajagopalLaiUhlrich2023,33.75,0.9237705279439782
+knee,"hip = 0°,  ankle = −15°",RajagopalLaiUhlrich2023,35.625,0.91336123378911
+knee,"hip = 0°,  ankle = −15°",RajagopalLaiUhlrich2023,37.5,0.8085194601244925
+knee,"hip = 0°,  ankle = −15°",RajagopalLaiUhlrich2023,39.375,0.5011341478908219
+knee,"hip = 0°,  ankle = −15°",RajagopalLaiUhlrich2023,41.25,0.17402358266145498
+knee,"hip = 0°,  ankle = −15°",RajagopalLaiUhlrich2023,43.125,-0.15278594482675073
+knee,"hip = 0°,  ankle = −15°",RajagopalLaiUhlrich2023,45.0,-0.48581766239781726
+knee,"hip = 0°,  ankle = −15°",RajagopalLaiUhlrich2023,46.875,-0.8324578145490787
+knee,"hip = 0°,  ankle = −15°",RajagopalLaiUhlrich2023,48.75,-1.201773087896894
+knee,"hip = 0°,  ankle = −15°",RajagopalLaiUhlrich2023,50.625,-1.6045710145089198
+knee,"hip = 0°,  ankle = −15°",RajagopalLaiUhlrich2023,52.5,-2.041921851013207
+knee,"hip = 0°,  ankle = −15°",RajagopalLaiUhlrich2023,54.375,-2.514451278311886
+knee,"hip = 0°,  ankle = −15°",RajagopalLaiUhlrich2023,56.25,-3.0221220238531155
+knee,"hip = 0°,  ankle = −15°",RajagopalLaiUhlrich2023,58.125,-3.560963872193912
+knee,"hip = 0°,  ankle = −15°",RajagopalLaiUhlrich2023,60.0,-4.1222622996509575
+knee,"hip = 0°,  ankle = −15°",RajagopalLaiUhlrich2023,61.875,-4.701468399242115
+knee,"hip = 0°,  ankle = −15°",RajagopalLaiUhlrich2023,63.75,-5.297282180491548
+knee,"hip = 0°,  ankle = −15°",RajagopalLaiUhlrich2023,65.625,-5.901254521947841
+knee,"hip = 0°,  ankle = −15°",RajagopalLaiUhlrich2023,67.5,-6.5042796526971145
+knee,"hip = 0°,  ankle = −15°",RajagopalLaiUhlrich2023,69.375,-7.096882509046077
+knee,"hip = 0°,  ankle = −15°",RajagopalLaiUhlrich2023,71.25,-7.671152195958167
+knee,"hip = 0°,  ankle = −15°",RajagopalLaiUhlrich2023,73.125,-8.224401010833931
+knee,"hip = 0°,  ankle = −15°",RajagopalLaiUhlrich2023,75.0,-8.749658749329091
+knee,"hip = −15°,  ankle = 20°",RajagopalLaiUhlrich2023,0.0,13.358620005877365
+knee,"hip = −15°,  ankle = 20°",RajagopalLaiUhlrich2023,1.875,12.785228167597124
+knee,"hip = −15°,  ankle = 20°",RajagopalLaiUhlrich2023,3.75,12.242950272008246
+knee,"hip = −15°,  ankle = 20°",RajagopalLaiUhlrich2023,5.625,11.726889898824473
+knee,"hip = −15°,  ankle = 20°",RajagopalLaiUhlrich2023,7.5,11.232858724780717
+knee,"hip = −15°,  ankle = 20°",RajagopalLaiUhlrich2023,9.375,10.754280229460832
+knee,"hip = −15°,  ankle = 20°",RajagopalLaiUhlrich2023,11.25,10.293067064206479
+knee,"hip = −15°,  ankle = 20°",RajagopalLaiUhlrich2023,13.125,9.845068513595297
+knee,"hip = −15°,  ankle = 20°",RajagopalLaiUhlrich2023,15.0,9.40694304562078
+knee,"hip = −15°,  ankle = 20°",RajagopalLaiUhlrich2023,16.875,8.976616416990343
+knee,"hip = −15°,  ankle = 20°",RajagopalLaiUhlrich2023,18.75,8.554723644663433
+knee,"hip = −15°,  ankle = 20°",RajagopalLaiUhlrich2023,20.625,8.13825309538475
+knee,"hip = −15°,  ankle = 20°",RajagopalLaiUhlrich2023,22.5,7.731167671972321
+knee,"hip = −15°,  ankle = 20°",RajagopalLaiUhlrich2023,24.375,7.332972397068549
+knee,"hip = −15°,  ankle = 20°",RajagopalLaiUhlrich2023,26.25,6.947930789690109
+knee,"hip = −15°,  ankle = 20°",RajagopalLaiUhlrich2023,28.125,6.455929123614551
+knee,"hip = −15°,  ankle = 20°",RajagopalLaiUhlrich2023,30.0,5.769133118848834
+knee,"hip = −15°,  ankle = 20°",RajagopalLaiUhlrich2023,31.875,5.081853570975747
+knee,"hip = −15°,  ankle = 20°",RajagopalLaiUhlrich2023,33.75,4.407660206190768
+knee,"hip = −15°,  ankle = 20°",RajagopalLaiUhlrich2023,35.625,3.742358850898459
+knee,"hip = −15°,  ankle = 20°",RajagopalLaiUhlrich2023,37.5,3.0679225757982103
+knee,"hip = −15°,  ankle = 20°",RajagopalLaiUhlrich2023,39.375,2.368111355875141
+knee,"hip = −15°,  ankle = 20°",RajagopalLaiUhlrich2023,41.25,1.654702388818366
+knee,"hip = −15°,  ankle = 20°",RajagopalLaiUhlrich2023,43.125,0.9093324360485591
+knee,"hip = −15°,  ankle = 20°",RajagopalLaiUhlrich2023,45.0,0.11779463566254741
+knee,"hip = −15°,  ankle = 20°",RajagopalLaiUhlrich2023,46.875,-0.7311572728891945
+knee,"hip = −15°,  ankle = 20°",RajagopalLaiUhlrich2023,48.75,-1.5790495305835688
+knee,"hip = −15°,  ankle = 20°",RajagopalLaiUhlrich2023,50.625,-2.4291604272927776
+knee,"hip = −15°,  ankle = 20°",RajagopalLaiUhlrich2023,52.5,-3.3380456370123075
+knee,"hip = −15°,  ankle = 20°",RajagopalLaiUhlrich2023,54.375,-4.292298897073081
+knee,"hip = −15°,  ankle = 20°",RajagopalLaiUhlrich2023,56.25,-5.278133013144617
+knee,"hip = −15°,  ankle = 20°",RajagopalLaiUhlrich2023,58.125,-6.277059392143875
+knee,"hip = −15°,  ankle = 20°",RajagopalLaiUhlrich2023,60.0,-7.265772225895751
+knee,"hip = −15°,  ankle = 20°",RajagopalLaiUhlrich2023,61.875,-8.233458737470404
+knee,"hip = −15°,  ankle = 20°",RajagopalLaiUhlrich2023,63.75,-9.177601485906427
+knee,"hip = −15°,  ankle = 20°",RajagopalLaiUhlrich2023,65.625,-10.083427444206075
+knee,"hip = −15°,  ankle = 20°",RajagopalLaiUhlrich2023,67.5,-10.937713219491025
+knee,"hip = −15°,  ankle = 20°",RajagopalLaiUhlrich2023,69.375,-11.729722736177056
+knee,"hip = −15°,  ankle = 20°",RajagopalLaiUhlrich2023,71.25,-12.457996019309038
+knee,"hip = −15°,  ankle = 20°",RajagopalLaiUhlrich2023,73.125,-13.134001415723437
+knee,"hip = −15°,  ankle = 20°",RajagopalLaiUhlrich2023,75.0,-13.760748884530038
+knee,"hip = 0°,  ankle = 20°",Rajagopal2016,0.0,16.988143916731786
+knee,"hip = 0°,  ankle = 20°",Rajagopal2016,1.875,16.7419380933885
+knee,"hip = 0°,  ankle = 20°",Rajagopal2016,3.75,16.48367072417144
+knee,"hip = 0°,  ankle = 20°",Rajagopal2016,5.625,16.213318388315678
+knee,"hip = 0°,  ankle = 20°",Rajagopal2016,7.5,15.931718592234379
+knee,"hip = 0°,  ankle = 20°",Rajagopal2016,9.375,15.637130759240833
+knee,"hip = 0°,  ankle = 20°",Rajagopal2016,11.25,15.328693051517819
+knee,"hip = 0°,  ankle = 20°",Rajagopal2016,13.125,15.003635713310524
+knee,"hip = 0°,  ankle = 20°",Rajagopal2016,15.0,14.58610465498656
+knee,"hip = 0°,  ankle = 20°",Rajagopal2016,16.875,13.899310269258967
+knee,"hip = 0°,  ankle = 20°",Rajagopal2016,18.75,13.077071816924677
+knee,"hip = 0°,  ankle = 20°",Rajagopal2016,20.625,12.247776622660423
+knee,"hip = 0°,  ankle = 20°",Rajagopal2016,22.5,11.408612394942784
+knee,"hip = 0°,  ankle = 20°",Rajagopal2016,24.375,10.553112762381023
+knee,"hip = 0°,  ankle = 20°",Rajagopal2016,26.25,9.570303271831857
+knee,"hip = 0°,  ankle = 20°",Rajagopal2016,28.125,8.267023718585385
+knee,"hip = 0°,  ankle = 20°",Rajagopal2016,30.0,6.657083274156392
+knee,"hip = 0°,  ankle = 20°",Rajagopal2016,31.875,4.668037461061936
+knee,"hip = 0°,  ankle = 20°",Rajagopal2016,33.75,2.4492341359963707
+knee,"hip = 0°,  ankle = 20°",Rajagopal2016,35.625,0.18818438959600248
+knee,"hip = 0°,  ankle = 20°",Rajagopal2016,37.5,-2.0982198536789665
+knee,"hip = 0°,  ankle = 20°",Rajagopal2016,39.375,-4.397022483481317
+knee,"hip = 0°,  ankle = 20°",Rajagopal2016,41.25,-6.702745433904862
+knee,"hip = 0°,  ankle = 20°",Rajagopal2016,43.125,-9.05636082580799
+knee,"hip = 0°,  ankle = 20°",Rajagopal2016,45.0,-11.482732242063731
+knee,"hip = 0°,  ankle = 20°",Rajagopal2016,46.875,-14.009183435901072
+knee,"hip = 0°,  ankle = 20°",Rajagopal2016,48.75,-16.660581097882563
+knee,"hip = 0°,  ankle = 20°",Rajagopal2016,50.625,-19.462516229300295
+knee,"hip = 0°,  ankle = 20°",Rajagopal2016,52.5,-22.3363308581015
+knee,"hip = 0°,  ankle = 20°",Rajagopal2016,54.375,-25.231901271275255
+knee,"hip = 0°,  ankle = 20°",Rajagopal2016,56.25,-28.112473537624815
+knee,"hip = 0°,  ankle = 20°",Rajagopal2016,58.125,-30.93675575419095
+knee,"hip = 0°,  ankle = 20°",Rajagopal2016,60.0,-33.649405316945646
+knee,"hip = 0°,  ankle = 20°",Rajagopal2016,61.875,-36.25832135720962
+knee,"hip = 0°,  ankle = 20°",Rajagopal2016,63.75,-38.80319656981776
+knee,"hip = 0°,  ankle = 20°",Rajagopal2016,65.625,-41.19570874256684
+knee,"hip = 0°,  ankle = 20°",Rajagopal2016,67.5,-43.27163729722623
+knee,"hip = 0°,  ankle = 20°",Rajagopal2016,69.375,-45.11895527593567
+knee,"hip = 0°,  ankle = 20°",Rajagopal2016,71.25,-46.770635460232405
+knee,"hip = 0°,  ankle = 20°",Rajagopal2016,73.125,-48.29244998375433
+knee,"hip = 0°,  ankle = 20°",Rajagopal2016,75.0,-49.68072249745191
+knee,"hip = 0°,  ankle = −15°",Rajagopal2016,0.0,1.466088216614555
+knee,"hip = 0°,  ankle = −15°",Rajagopal2016,1.875,1.390211031985341
+knee,"hip = 0°,  ankle = −15°",Rajagopal2016,3.75,1.320511434555252
+knee,"hip = 0°,  ankle = −15°",Rajagopal2016,5.625,1.2587968565425858
+knee,"hip = 0°,  ankle = −15°",Rajagopal2016,7.5,1.2010593538000827
+knee,"hip = 0°,  ankle = −15°",Rajagopal2016,9.375,1.1419297431556883
+knee,"hip = 0°,  ankle = −15°",Rajagopal2016,11.25,1.0806971930580633
+knee,"hip = 0°,  ankle = −15°",Rajagopal2016,13.125,1.017413388144791
+knee,"hip = 0°,  ankle = −15°",Rajagopal2016,15.0,0.9366417502934901
+knee,"hip = 0°,  ankle = −15°",Rajagopal2016,16.875,0.6325888247825806
+knee,"hip = 0°,  ankle = −15°",Rajagopal2016,18.75,0.20651639243109088
+knee,"hip = 0°,  ankle = −15°",Rajagopal2016,20.625,-0.21439715761278744
+knee,"hip = 0°,  ankle = −15°",Rajagopal2016,22.5,-0.6322779685095228
+knee,"hip = 0°,  ankle = −15°",Rajagopal2016,24.375,-1.0559563601854989
+knee,"hip = 0°,  ankle = −15°",Rajagopal2016,26.25,-1.5328163518598599
+knee,"hip = 0°,  ankle = −15°",Rajagopal2016,28.125,-2.2215618349175656
+knee,"hip = 0°,  ankle = −15°",Rajagopal2016,30.0,-3.2000636764961516
+knee,"hip = 0°,  ankle = −15°",Rajagopal2016,31.875,-4.547128577082472
+knee,"hip = 0°,  ankle = −15°",Rajagopal2016,33.75,-6.119655031394523
+knee,"hip = 0°,  ankle = −15°",Rajagopal2016,35.625,-7.736066231472216
+knee,"hip = 0°,  ankle = −15°",Rajagopal2016,37.5,-9.385686862932271
+knee,"hip = 0°,  ankle = −15°",Rajagopal2016,39.375,-11.060876703023153
+knee,"hip = 0°,  ankle = −15°",Rajagopal2016,41.25,-12.761596640120409
+knee,"hip = 0°,  ankle = −15°",Rajagopal2016,43.125,-14.533311507757988
+knee,"hip = 0°,  ankle = −15°",Rajagopal2016,45.0,-16.40409653807766
+knee,"hip = 0°,  ankle = −15°",Rajagopal2016,46.875,-18.403189915927832
+knee,"hip = 0°,  ankle = −15°",Rajagopal2016,48.75,-20.55568659496631
+knee,"hip = 0°,  ankle = −15°",Rajagopal2016,50.625,-22.885557330827464
+knee,"hip = 0°,  ankle = −15°",Rajagopal2016,52.5,-25.31120562990062
+knee,"hip = 0°,  ankle = −15°",Rajagopal2016,54.375,-27.77830826011423
+knee,"hip = 0°,  ankle = −15°",Rajagopal2016,56.25,-30.245220872630146
+knee,"hip = 0°,  ankle = −15°",Rajagopal2016,58.125,-32.66566445343929
+knee,"hip = 0°,  ankle = −15°",Rajagopal2016,60.0,-34.97961379201064
+knee,"hip = 0°,  ankle = −15°",Rajagopal2016,61.875,-37.19080829001819
+knee,"hip = 0°,  ankle = −15°",Rajagopal2016,63.75,-39.33556198464532
+knee,"hip = 0°,  ankle = −15°",Rajagopal2016,65.625,-41.38790267088954
+knee,"hip = 0°,  ankle = −15°",Rajagopal2016,67.5,-43.32434516812212
+knee,"hip = 0°,  ankle = −15°",Rajagopal2016,69.375,-45.121775662124854
+knee,"hip = 0°,  ankle = −15°",Rajagopal2016,71.25,-46.7706355239126
+knee,"hip = 0°,  ankle = −15°",Rajagopal2016,73.125,-48.292450041955696
+knee,"hip = 0°,  ankle = −15°",Rajagopal2016,75.0,-49.6807225418924
+knee,"hip = −15°,  ankle = 20°",Rajagopal2016,0.0,16.745671256146732
+knee,"hip = −15°,  ankle = 20°",Rajagopal2016,1.875,16.499993528002438
+knee,"hip = −15°,  ankle = 20°",Rajagopal2016,3.75,16.24312172434161
+knee,"hip = −15°,  ankle = 20°",Rajagopal2016,5.625,15.968915208771893
+knee,"hip = −15°,  ankle = 20°",Rajagopal2016,7.5,15.484458632986012
+knee,"hip = −15°,  ankle = 20°",Rajagopal2016,9.375,14.850928980598226
+knee,"hip = −15°,  ankle = 20°",Rajagopal2016,11.25,14.203099869587364
+knee,"hip = −15°,  ankle = 20°",Rajagopal2016,13.125,13.528965004617726
+knee,"hip = −15°,  ankle = 20°",Rajagopal2016,15.0,12.759414667908661
+knee,"hip = −15°,  ankle = 20°",Rajagopal2016,16.875,11.914937866209112
+knee,"hip = −15°,  ankle = 20°",Rajagopal2016,18.75,11.01929794757841
+knee,"hip = −15°,  ankle = 20°",Rajagopal2016,20.625,10.065532253384571
+knee,"hip = −15°,  ankle = 20°",Rajagopal2016,22.5,9.036571622742132
+knee,"hip = −15°,  ankle = 20°",Rajagopal2016,24.375,7.921012347832308
+knee,"hip = −15°,  ankle = 20°",Rajagopal2016,26.25,6.61648816174365
+knee,"hip = −15°,  ankle = 20°",Rajagopal2016,28.125,4.939207236591556
+knee,"hip = −15°,  ankle = 20°",Rajagopal2016,30.0,2.91387958825225
+knee,"hip = −15°,  ankle = 20°",Rajagopal2016,31.875,0.48122276776041306
+knee,"hip = −15°,  ankle = 20°",Rajagopal2016,33.75,-2.1958614271038526
+knee,"hip = −15°,  ankle = 20°",Rajagopal2016,35.625,-4.91469146844034
+knee,"hip = −15°,  ankle = 20°",Rajagopal2016,37.5,-7.642874485718224
+knee,"hip = −15°,  ankle = 20°",Rajagopal2016,39.375,-10.349132422830833
+knee,"hip = −15°,  ankle = 20°",Rajagopal2016,41.25,-13.016130289850171
+knee,"hip = −15°,  ankle = 20°",Rajagopal2016,43.125,-15.696749584194206
+knee,"hip = −15°,  ankle = 20°",Rajagopal2016,45.0,-18.418186395409336
+knee,"hip = −15°,  ankle = 20°",Rajagopal2016,46.875,-21.220600058204457
+knee,"hip = −15°,  ankle = 20°",Rajagopal2016,48.75,-24.150702600958756
+knee,"hip = −15°,  ankle = 20°",Rajagopal2016,50.625,-27.253686472365917
+knee,"hip = −15°,  ankle = 20°",Rajagopal2016,52.5,-30.426805600696785
+knee,"hip = −15°,  ankle = 20°",Rajagopal2016,54.375,-33.60591421846753
+knee,"hip = −15°,  ankle = 20°",Rajagopal2016,56.25,-36.74322992487737
+knee,"hip = −15°,  ankle = 20°",Rajagopal2016,58.125,-39.77764825855021
+knee,"hip = −15°,  ankle = 20°",Rajagopal2016,60.0,-42.63445730236624
+knee,"hip = −15°,  ankle = 20°",Rajagopal2016,61.875,-45.327176224783344
+knee,"hip = −15°,  ankle = 20°",Rajagopal2016,63.75,-47.91299865115865
+knee,"hip = −15°,  ankle = 20°",Rajagopal2016,65.625,-50.30670840034372
+knee,"hip = −15°,  ankle = 20°",Rajagopal2016,67.5,-52.343821918844384
+knee,"hip = −15°,  ankle = 20°",Rajagopal2016,69.375,-54.113323705203165
+knee,"hip = −15°,  ankle = 20°",Rajagopal2016,71.25,-55.65388809786884
+knee,"hip = −15°,  ankle = 20°",Rajagopal2016,73.125,-57.04298910187372
+knee,"hip = −15°,  ankle = 20°",Rajagopal2016,75.0,-58.28337393662122
+hip,knee = 15°,Silder 2007 (digitized),-15.0,28.357
+hip,knee = 15°,Silder 2007 (digitized),-14.0,26.23
+hip,knee = 15°,Silder 2007 (digitized),-13.0,24.138
+hip,knee = 15°,Silder 2007 (digitized),-12.0,22.117
+hip,knee = 15°,Silder 2007 (digitized),-11.0,20.203
+hip,knee = 15°,Silder 2007 (digitized),-10.0,18.415
+hip,knee = 15°,Silder 2007 (digitized),-9.0,16.764
+hip,knee = 15°,Silder 2007 (digitized),-8.0,15.255
+hip,knee = 15°,Silder 2007 (digitized),-7.0,13.886
+hip,knee = 15°,Silder 2007 (digitized),-6.0,12.648
+hip,knee = 15°,Silder 2007 (digitized),-5.0,11.532
+hip,knee = 15°,Silder 2007 (digitized),-4.0,10.523
+hip,knee = 15°,Silder 2007 (digitized),-3.0,9.6047
+hip,knee = 15°,Silder 2007 (digitized),-2.0,8.7662
+hip,knee = 15°,Silder 2007 (digitized),-1.0,7.9986
+hip,knee = 15°,Silder 2007 (digitized),0.0,7.2941
+hip,knee = 15°,Silder 2007 (digitized),1.0,6.6471
+hip,knee = 15°,Silder 2007 (digitized),2.0,6.0526
+hip,knee = 15°,Silder 2007 (digitized),3.0,5.5066
+hip,knee = 15°,Silder 2007 (digitized),4.0,5.0058
+hip,knee = 15°,Silder 2007 (digitized),5.0,4.5468
+hip,knee = 15°,Silder 2007 (digitized),6.0,4.126
+hip,knee = 15°,Silder 2007 (digitized),7.0,3.7387
+hip,knee = 15°,Silder 2007 (digitized),8.0,3.3802
+hip,knee = 15°,Silder 2007 (digitized),9.0,3.0462
+hip,knee = 15°,Silder 2007 (digitized),10.0,2.7352
+hip,knee = 15°,Silder 2007 (digitized),11.0,2.447
+hip,knee = 15°,Silder 2007 (digitized),12.0,2.1813
+hip,knee = 15°,Silder 2007 (digitized),13.0,1.9363
+hip,knee = 15°,Silder 2007 (digitized),14.0,1.7088
+hip,knee = 15°,Silder 2007 (digitized),15.0,1.4954
+hip,knee = 15°,Silder 2007 (digitized),16.0,1.293
+hip,knee = 15°,Silder 2007 (digitized),17.0,1.0988
+hip,knee = 15°,Silder 2007 (digitized),18.0,0.91062
+hip,knee = 15°,Silder 2007 (digitized),19.0,0.72628
+hip,knee = 15°,Silder 2007 (digitized),20.0,0.54513
+hip,knee = 15°,Silder 2007 (digitized),21.0,0.36943
+hip,knee = 15°,Silder 2007 (digitized),22.0,0.20177
+hip,knee = 15°,Silder 2007 (digitized),23.0,0.044613
+hip,knee = 15°,Silder 2007 (digitized),24.0,-0.10131
+hip,knee = 15°,Silder 2007 (digitized),25.0,-0.2365
+hip,knee = 15°,Silder 2007 (digitized),26.0,-0.3615
+hip,knee = 15°,Silder 2007 (digitized),27.0,-0.47691
+hip,knee = 15°,Silder 2007 (digitized),28.0,-0.58515
+hip,knee = 15°,Silder 2007 (digitized),29.0,-0.69067
+hip,knee = 15°,Silder 2007 (digitized),30.0,-0.79807
+hip,knee = 15°,Silder 2007 (digitized),31.0,-0.91133
+hip,knee = 15°,Silder 2007 (digitized),32.0,-1.0302
+hip,knee = 15°,Silder 2007 (digitized),33.0,-1.1527
+hip,knee = 15°,Silder 2007 (digitized),34.0,-1.2767
+hip,knee = 15°,Silder 2007 (digitized),35.0,-1.4013
+hip,knee = 15°,Silder 2007 (digitized),36.0,-1.5271
+hip,knee = 15°,Silder 2007 (digitized),37.0,-1.6546
+hip,knee = 15°,Silder 2007 (digitized),38.0,-1.7846
+hip,knee = 15°,Silder 2007 (digitized),39.0,-1.918
+hip,knee = 15°,Silder 2007 (digitized),40.0,-2.0558
+hip,knee = 15°,Silder 2007 (digitized),41.0,-2.1991
+hip,knee = 15°,Silder 2007 (digitized),42.0,-2.3475
+hip,knee = 15°,Silder 2007 (digitized),43.0,-2.5005
+hip,knee = 15°,Silder 2007 (digitized),44.0,-2.6574
+hip,knee = 15°,Silder 2007 (digitized),45.0,-2.8194
+hip,knee = 15°,Silder 2007 (digitized),46.0,-2.9896
+hip,knee = 15°,Silder 2007 (digitized),47.0,-3.171
+hip,knee = 15°,Silder 2007 (digitized),48.0,-3.3666
+hip,knee = 15°,Silder 2007 (digitized),49.0,-3.5783
+hip,knee = 15°,Silder 2007 (digitized),50.0,-3.8071
+hip,knee = 15°,Silder 2007 (digitized),51.0,-4.0537
+hip,knee = 15°,Silder 2007 (digitized),52.0,-4.32
+hip,knee = 15°,Silder 2007 (digitized),53.0,-4.6096
+hip,knee = 15°,Silder 2007 (digitized),54.0,-4.9262
+hip,knee = 15°,Silder 2007 (digitized),55.0,-5.2732
+hip,knee = 15°,Silder 2007 (digitized),56.0,-5.6525
+hip,knee = 15°,Silder 2007 (digitized),57.0,-6.0647
+hip,knee = 15°,Silder 2007 (digitized),58.0,-6.5112
+hip,knee = 15°,Silder 2007 (digitized),59.0,-6.9939
+hip,knee = 15°,Silder 2007 (digitized),60.0,-7.5152
+hip,knee = 15°,Silder 2007 (digitized),61.0,-8.0782
+hip,knee = 15°,Silder 2007 (digitized),62.0,-8.6912
+hip,knee = 15°,Silder 2007 (digitized),63.0,-9.3646
+hip,knee = 15°,Silder 2007 (digitized),64.0,-10.109
+hip,knee = 15°,Silder 2007 (digitized),65.0,-10.934
+hip,knee = 15°,Silder 2007 (digitized),66.0,-11.85
+hip,knee = 15°,Silder 2007 (digitized),67.0,-12.865
+hip,knee = 15°,Silder 2007 (digitized),68.0,-13.994
+hip,knee = 15°,Silder 2007 (digitized),69.0,-15.262
+hip,knee = 15°,Silder 2007 (digitized),70.0,-16.689
+hip,knee = 15°,Silder 2007 (digitized),71.0,-18.302
+hip,knee = 15°,Silder 2007 (digitized),72.0,-20.123
+hip,knee = 15°,Silder 2007 (digitized),73.0,-22.176
+hip,knee = 15°,Silder 2007 (digitized),74.0,-24.47
+hip,knee = 15°,Silder 2007 (digitized),75.0,-27.008
+hip,knee = 15°,Silder 2007 (digitized),76.0,-29.778
+hip,knee = 15°,Silder 2007 (digitized),77.0,-32.748
+hip,knee = 15°,Silder 2007 (digitized),78.0,-35.879
+hip,knee = 15°,Silder 2007 (digitized),79.0,-39.123
+hip,knee = 15°,Silder 2007 (digitized),80.0,-42.423
+hip,knee = 60°,Silder 2007 (digitized),-15.0,35.031
+hip,knee = 60°,Silder 2007 (digitized),-14.0,32.642
+hip,knee = 60°,Silder 2007 (digitized),-13.0,30.297
+hip,knee = 60°,Silder 2007 (digitized),-12.0,28.025
+hip,knee = 60°,Silder 2007 (digitized),-11.0,25.852
+hip,knee = 60°,Silder 2007 (digitized),-10.0,23.798
+hip,knee = 60°,Silder 2007 (digitized),-9.0,21.875
+hip,knee = 60°,Silder 2007 (digitized),-8.0,20.089
+hip,knee = 60°,Silder 2007 (digitized),-7.0,18.439
+hip,knee = 60°,Silder 2007 (digitized),-6.0,16.924
+hip,knee = 60°,Silder 2007 (digitized),-5.0,15.545
+hip,knee = 60°,Silder 2007 (digitized),-4.0,14.291
+hip,knee = 60°,Silder 2007 (digitized),-3.0,13.152
+hip,knee = 60°,Silder 2007 (digitized),-2.0,12.118
+hip,knee = 60°,Silder 2007 (digitized),-1.0,11.175
+hip,knee = 60°,Silder 2007 (digitized),0.0,10.314
+hip,knee = 60°,Silder 2007 (digitized),1.0,9.5263
+hip,knee = 60°,Silder 2007 (digitized),2.0,8.8049
+hip,knee = 60°,Silder 2007 (digitized),3.0,8.1428
+hip,knee = 60°,Silder 2007 (digitized),4.0,7.5332
+hip,knee = 60°,Silder 2007 (digitized),5.0,6.97
+hip,knee = 60°,Silder 2007 (digitized),6.0,6.4474
+hip,knee = 60°,Silder 2007 (digitized),7.0,5.9605
+hip,knee = 60°,Silder 2007 (digitized),8.0,5.5072
+hip,knee = 60°,Silder 2007 (digitized),9.0,5.0858
+hip,knee = 60°,Silder 2007 (digitized),10.0,4.6941
+hip,knee = 60°,Silder 2007 (digitized),11.0,4.3295
+hip,knee = 60°,Silder 2007 (digitized),12.0,3.9893
+hip,knee = 60°,Silder 2007 (digitized),13.0,3.672
+hip,knee = 60°,Silder 2007 (digitized),14.0,3.3773
+hip,knee = 60°,Silder 2007 (digitized),15.0,3.1032
+hip,knee = 60°,Silder 2007 (digitized),16.0,2.8462
+hip,knee = 60°,Silder 2007 (digitized),17.0,2.6026
+hip,knee = 60°,Silder 2007 (digitized),18.0,2.3719
+hip,knee = 60°,Silder 2007 (digitized),19.0,2.1562
+hip,knee = 60°,Silder 2007 (digitized),20.0,1.9568
+hip,knee = 60°,Silder 2007 (digitized),21.0,1.7708
+hip,knee = 60°,Silder 2007 (digitized),22.0,1.5948
+hip,knee = 60°,Silder 2007 (digitized),23.0,1.4257
+hip,knee = 60°,Silder 2007 (digitized),24.0,1.2621
+hip,knee = 60°,Silder 2007 (digitized),25.0,1.1025
+hip,knee = 60°,Silder 2007 (digitized),26.0,0.94556
+hip,knee = 60°,Silder 2007 (digitized),27.0,0.79006
+hip,knee = 60°,Silder 2007 (digitized),28.0,0.63554
+hip,knee = 60°,Silder 2007 (digitized),29.0,0.48344
+hip,knee = 60°,Silder 2007 (digitized),30.0,0.33542
+hip,knee = 60°,Silder 2007 (digitized),31.0,0.19312
+hip,knee = 60°,Silder 2007 (digitized),32.0,0.05818
+hip,knee = 60°,Silder 2007 (digitized),33.0,-0.068485
+hip,knee = 60°,Silder 2007 (digitized),34.0,-0.18658
+hip,knee = 60°,Silder 2007 (digitized),35.0,-0.29599
+hip,knee = 60°,Silder 2007 (digitized),36.0,-0.39835
+hip,knee = 60°,Silder 2007 (digitized),37.0,-0.49658
+hip,knee = 60°,Silder 2007 (digitized),38.0,-0.59359
+hip,knee = 60°,Silder 2007 (digitized),39.0,-0.6923
+hip,knee = 60°,Silder 2007 (digitized),40.0,-0.79561
+hip,knee = 60°,Silder 2007 (digitized),41.0,-0.90475
+hip,knee = 60°,Silder 2007 (digitized),42.0,-1.018
+hip,knee = 60°,Silder 2007 (digitized),43.0,-1.1334
+hip,knee = 60°,Silder 2007 (digitized),44.0,-1.2489
+hip,knee = 60°,Silder 2007 (digitized),45.0,-1.3626
+hip,knee = 60°,Silder 2007 (digitized),46.0,-1.4734
+hip,knee = 60°,Silder 2007 (digitized),47.0,-1.5835
+hip,knee = 60°,Silder 2007 (digitized),48.0,-1.6959
+hip,knee = 60°,Silder 2007 (digitized),49.0,-1.8137
+hip,knee = 60°,Silder 2007 (digitized),50.0,-1.9398
+hip,knee = 60°,Silder 2007 (digitized),51.0,-2.0766
+hip,knee = 60°,Silder 2007 (digitized),52.0,-2.2223
+hip,knee = 60°,Silder 2007 (digitized),53.0,-2.3729
+hip,knee = 60°,Silder 2007 (digitized),54.0,-2.5257
+hip,knee = 60°,Silder 2007 (digitized),55.0,-2.68
+hip,knee = 60°,Silder 2007 (digitized),56.0,-2.8358
+hip,knee = 60°,Silder 2007 (digitized),57.0,-2.993
+hip,knee = 60°,Silder 2007 (digitized),58.0,-3.1514
+hip,knee = 60°,Silder 2007 (digitized),59.0,-3.31
+hip,knee = 60°,Silder 2007 (digitized),60.0,-3.4674
+hip,knee = 60°,Silder 2007 (digitized),61.0,-3.6224
+hip,knee = 60°,Silder 2007 (digitized),62.0,-3.7758
+hip,knee = 60°,Silder 2007 (digitized),63.0,-3.93
+hip,knee = 60°,Silder 2007 (digitized),64.0,-4.0884
+hip,knee = 60°,Silder 2007 (digitized),65.0,-4.2576
+hip,knee = 60°,Silder 2007 (digitized),66.0,-4.4439
+hip,knee = 60°,Silder 2007 (digitized),67.0,-4.6496
+hip,knee = 60°,Silder 2007 (digitized),68.0,-4.8736
+hip,knee = 60°,Silder 2007 (digitized),69.0,-5.1155
+hip,knee = 60°,Silder 2007 (digitized),70.0,-5.3773
+hip,knee = 60°,Silder 2007 (digitized),71.0,-5.6618
+hip,knee = 60°,Silder 2007 (digitized),72.0,-5.9713
+hip,knee = 60°,Silder 2007 (digitized),73.0,-6.307
+hip,knee = 60°,Silder 2007 (digitized),74.0,-6.6697
+hip,knee = 60°,Silder 2007 (digitized),75.0,-7.0572
+hip,knee = 60°,Silder 2007 (digitized),76.0,-7.4643
+hip,knee = 60°,Silder 2007 (digitized),77.0,-7.8864
+hip,knee = 60°,Silder 2007 (digitized),78.0,-8.3211
+hip,knee = 60°,Silder 2007 (digitized),79.0,-8.7664
+hip,knee = 60°,Silder 2007 (digitized),80.0,-9.219
+knee,"hip = 0°,  ankle = 20°",Silder 2007 (digitized),-0.0,20.884
+knee,"hip = 0°,  ankle = 20°",Silder 2007 (digitized),1.0,19.514
+knee,"hip = 0°,  ankle = 20°",Silder 2007 (digitized),2.0,18.164
+knee,"hip = 0°,  ankle = 20°",Silder 2007 (digitized),3.0,16.856
+knee,"hip = 0°,  ankle = 20°",Silder 2007 (digitized),4.0,15.609
+knee,"hip = 0°,  ankle = 20°",Silder 2007 (digitized),5.0,14.433
+knee,"hip = 0°,  ankle = 20°",Silder 2007 (digitized),6.0,13.337
+knee,"hip = 0°,  ankle = 20°",Silder 2007 (digitized),7.0,12.323
+knee,"hip = 0°,  ankle = 20°",Silder 2007 (digitized),8.0,11.388
+knee,"hip = 0°,  ankle = 20°",Silder 2007 (digitized),9.0,10.53
+knee,"hip = 0°,  ankle = 20°",Silder 2007 (digitized),10.0,9.7464
+knee,"hip = 0°,  ankle = 20°",Silder 2007 (digitized),11.0,9.0311
+knee,"hip = 0°,  ankle = 20°",Silder 2007 (digitized),12.0,8.3791
+knee,"hip = 0°,  ankle = 20°",Silder 2007 (digitized),13.0,7.7846
+knee,"hip = 0°,  ankle = 20°",Silder 2007 (digitized),14.0,7.2418
+knee,"hip = 0°,  ankle = 20°",Silder 2007 (digitized),15.0,6.7454
+knee,"hip = 0°,  ankle = 20°",Silder 2007 (digitized),16.0,6.2907
+knee,"hip = 0°,  ankle = 20°",Silder 2007 (digitized),17.0,5.8728
+knee,"hip = 0°,  ankle = 20°",Silder 2007 (digitized),18.0,5.487
+knee,"hip = 0°,  ankle = 20°",Silder 2007 (digitized),19.0,5.1291
+knee,"hip = 0°,  ankle = 20°",Silder 2007 (digitized),20.0,4.7959
+knee,"hip = 0°,  ankle = 20°",Silder 2007 (digitized),21.0,4.4839
+knee,"hip = 0°,  ankle = 20°",Silder 2007 (digitized),22.0,4.1898
+knee,"hip = 0°,  ankle = 20°",Silder 2007 (digitized),23.0,3.9106
+knee,"hip = 0°,  ankle = 20°",Silder 2007 (digitized),24.0,3.6448
+knee,"hip = 0°,  ankle = 20°",Silder 2007 (digitized),25.0,3.3923
+knee,"hip = 0°,  ankle = 20°",Silder 2007 (digitized),26.0,3.1527
+knee,"hip = 0°,  ankle = 20°",Silder 2007 (digitized),27.0,2.9258
+knee,"hip = 0°,  ankle = 20°",Silder 2007 (digitized),28.0,2.7114
+knee,"hip = 0°,  ankle = 20°",Silder 2007 (digitized),29.0,2.5085
+knee,"hip = 0°,  ankle = 20°",Silder 2007 (digitized),30.0,2.3158
+knee,"hip = 0°,  ankle = 20°",Silder 2007 (digitized),31.0,2.1321
+knee,"hip = 0°,  ankle = 20°",Silder 2007 (digitized),32.0,1.9561
+knee,"hip = 0°,  ankle = 20°",Silder 2007 (digitized),33.0,1.7867
+knee,"hip = 0°,  ankle = 20°",Silder 2007 (digitized),34.0,1.623
+knee,"hip = 0°,  ankle = 20°",Silder 2007 (digitized),35.0,1.4646
+knee,"hip = 0°,  ankle = 20°",Silder 2007 (digitized),36.0,1.3111
+knee,"hip = 0°,  ankle = 20°",Silder 2007 (digitized),37.0,1.1622
+knee,"hip = 0°,  ankle = 20°",Silder 2007 (digitized),38.0,1.0177
+knee,"hip = 0°,  ankle = 20°",Silder 2007 (digitized),39.0,0.87708
+knee,"hip = 0°,  ankle = 20°",Silder 2007 (digitized),40.0,0.7401
+knee,"hip = 0°,  ankle = 20°",Silder 2007 (digitized),41.0,0.60641
+knee,"hip = 0°,  ankle = 20°",Silder 2007 (digitized),42.0,0.47567
+knee,"hip = 0°,  ankle = 20°",Silder 2007 (digitized),43.0,0.34752
+knee,"hip = 0°,  ankle = 20°",Silder 2007 (digitized),44.0,0.22165
+knee,"hip = 0°,  ankle = 20°",Silder 2007 (digitized),45.0,0.097742
+knee,"hip = 0°,  ankle = 20°",Silder 2007 (digitized),46.0,-0.024066
+knee,"hip = 0°,  ankle = 20°",Silder 2007 (digitized),47.0,-0.14345
+knee,"hip = 0°,  ankle = 20°",Silder 2007 (digitized),48.0,-0.2601
+knee,"hip = 0°,  ankle = 20°",Silder 2007 (digitized),49.0,-0.37367
+knee,"hip = 0°,  ankle = 20°",Silder 2007 (digitized),50.0,-0.48386
+knee,"hip = 0°,  ankle = 20°",Silder 2007 (digitized),51.0,-0.59032
+knee,"hip = 0°,  ankle = 20°",Silder 2007 (digitized),52.0,-0.6928
+knee,"hip = 0°,  ankle = 20°",Silder 2007 (digitized),53.0,-0.79184
+knee,"hip = 0°,  ankle = 20°",Silder 2007 (digitized),54.0,-0.8886
+knee,"hip = 0°,  ankle = 20°",Silder 2007 (digitized),55.0,-0.98423
+knee,"hip = 0°,  ankle = 20°",Silder 2007 (digitized),56.0,-1.0799
+knee,"hip = 0°,  ankle = 20°",Silder 2007 (digitized),57.0,-1.1768
+knee,"hip = 0°,  ankle = 20°",Silder 2007 (digitized),58.0,-1.276
+knee,"hip = 0°,  ankle = 20°",Silder 2007 (digitized),59.0,-1.3785
+knee,"hip = 0°,  ankle = 20°",Silder 2007 (digitized),60.0,-1.4837
+knee,"hip = 0°,  ankle = 20°",Silder 2007 (digitized),61.0,-1.5912
+knee,"hip = 0°,  ankle = 20°",Silder 2007 (digitized),62.0,-1.7003
+knee,"hip = 0°,  ankle = 20°",Silder 2007 (digitized),63.0,-1.8104
+knee,"hip = 0°,  ankle = 20°",Silder 2007 (digitized),64.0,-1.921
+knee,"hip = 0°,  ankle = 20°",Silder 2007 (digitized),65.0,-2.0314
+knee,"hip = 0°,  ankle = 20°",Silder 2007 (digitized),66.0,-2.1411
+knee,"hip = 0°,  ankle = 20°",Silder 2007 (digitized),67.0,-2.2503
+knee,"hip = 0°,  ankle = 20°",Silder 2007 (digitized),68.0,-2.3597
+knee,"hip = 0°,  ankle = 20°",Silder 2007 (digitized),69.0,-2.4701
+knee,"hip = 0°,  ankle = 20°",Silder 2007 (digitized),70.0,-2.5821
+knee,"hip = 0°,  ankle = 20°",Silder 2007 (digitized),71.0,-2.6967
+knee,"hip = 0°,  ankle = 20°",Silder 2007 (digitized),72.0,-2.8145
+knee,"hip = 0°,  ankle = 20°",Silder 2007 (digitized),73.0,-2.9362
+knee,"hip = 0°,  ankle = 20°",Silder 2007 (digitized),74.0,-3.0624
+knee,"hip = 0°,  ankle = 20°",Silder 2007 (digitized),75.0,-3.1925
+knee,"hip = 0°,  ankle = 20°",Silder 2007 (digitized),76.0,-3.326
+knee,"hip = 0°,  ankle = 20°",Silder 2007 (digitized),77.0,-3.4623
+knee,"hip = 0°,  ankle = 20°",Silder 2007 (digitized),78.0,-3.6008
+knee,"hip = 0°,  ankle = 20°",Silder 2007 (digitized),79.0,-3.741
+knee,"hip = 0°,  ankle = 20°",Silder 2007 (digitized),80.0,-3.8824
+knee,"hip = 0°,  ankle = 20°",Silder 2007 (digitized),81.0,-4.0253
+knee,"hip = 0°,  ankle = 20°",Silder 2007 (digitized),82.0,-4.1708
+knee,"hip = 0°,  ankle = 20°",Silder 2007 (digitized),83.0,-4.3199
+knee,"hip = 0°,  ankle = 20°",Silder 2007 (digitized),84.0,-4.4738
+knee,"hip = 0°,  ankle = 20°",Silder 2007 (digitized),85.0,-4.6334
+knee,"hip = 0°,  ankle = 20°",Silder 2007 (digitized),86.0,-4.7999
+knee,"hip = 0°,  ankle = 20°",Silder 2007 (digitized),87.0,-4.974
+knee,"hip = 0°,  ankle = 20°",Silder 2007 (digitized),88.0,-5.1556
+knee,"hip = 0°,  ankle = 20°",Silder 2007 (digitized),89.0,-5.3443
+knee,"hip = 0°,  ankle = 20°",Silder 2007 (digitized),90.0,-5.54
+knee,"hip = 0°,  ankle = 20°",Silder 2007 (digitized),91.0,-5.7421
+knee,"hip = 0°,  ankle = 20°",Silder 2007 (digitized),92.0,-5.9504
+knee,"hip = 0°,  ankle = 20°",Silder 2007 (digitized),93.0,-6.165
+knee,"hip = 0°,  ankle = 20°",Silder 2007 (digitized),94.0,-6.3861
+knee,"hip = 0°,  ankle = 20°",Silder 2007 (digitized),95.0,-6.6142
+knee,"hip = 0°,  ankle = 20°",Silder 2007 (digitized),96.0,-6.8494
+knee,"hip = 0°,  ankle = 20°",Silder 2007 (digitized),97.0,-7.0921
+knee,"hip = 0°,  ankle = 20°",Silder 2007 (digitized),98.0,-7.3427
+knee,"hip = 0°,  ankle = 20°",Silder 2007 (digitized),99.0,-7.6017
+knee,"hip = 0°,  ankle = 20°",Silder 2007 (digitized),100.0,-7.87
+knee,"hip = 0°,  ankle = 20°",Silder 2007 (digitized),101.0,-8.1489
+knee,"hip = 0°,  ankle = 20°",Silder 2007 (digitized),102.0,-8.4395
+knee,"hip = 0°,  ankle = 20°",Silder 2007 (digitized),103.0,-8.743
+knee,"hip = 0°,  ankle = 20°",Silder 2007 (digitized),104.0,-9.0605
+knee,"hip = 0°,  ankle = 20°",Silder 2007 (digitized),105.0,-9.3919
+knee,"hip = 0°,  ankle = 20°",Silder 2007 (digitized),106.0,-9.7372
+knee,"hip = 0°,  ankle = 20°",Silder 2007 (digitized),107.0,-10.096
+knee,"hip = 0°,  ankle = 20°",Silder 2007 (digitized),108.0,-10.469
+knee,"hip = 0°,  ankle = 20°",Silder 2007 (digitized),109.0,-10.856
+knee,"hip = 0°,  ankle = 20°",Silder 2007 (digitized),110.0,-11.258
+knee,"hip = 0°,  ankle = 20°",Silder 2007 (digitized),111.0,-11.677
+knee,"hip = 0°,  ankle = 20°",Silder 2007 (digitized),112.0,-12.115
+knee,"hip = 0°,  ankle = 20°",Silder 2007 (digitized),113.0,-12.574
+knee,"hip = 0°,  ankle = 20°",Silder 2007 (digitized),114.0,-13.056
+knee,"hip = 0°,  ankle = 20°",Silder 2007 (digitized),115.0,-13.563
+knee,"hip = 0°,  ankle = 20°",Silder 2007 (digitized),116.0,-14.096
+knee,"hip = 0°,  ankle = 20°",Silder 2007 (digitized),117.0,-14.658
+knee,"hip = 0°,  ankle = 20°",Silder 2007 (digitized),118.0,-15.251
+knee,"hip = 0°,  ankle = 20°",Silder 2007 (digitized),119.0,-15.873
+knee,"hip = 0°,  ankle = 20°",Silder 2007 (digitized),120.0,-16.527
+knee,"hip = 0°,  ankle = −15°",Silder 2007 (digitized),-0.0,3.4216
+knee,"hip = 0°,  ankle = −15°",Silder 2007 (digitized),1.0,3.0618
+knee,"hip = 0°,  ankle = −15°",Silder 2007 (digitized),2.0,2.7128
+knee,"hip = 0°,  ankle = −15°",Silder 2007 (digitized),3.0,2.3827
+knee,"hip = 0°,  ankle = −15°",Silder 2007 (digitized),4.0,2.0762
+knee,"hip = 0°,  ankle = −15°",Silder 2007 (digitized),5.0,1.7968
+knee,"hip = 0°,  ankle = −15°",Silder 2007 (digitized),6.0,1.5463
+knee,"hip = 0°,  ankle = −15°",Silder 2007 (digitized),7.0,1.3239
+knee,"hip = 0°,  ankle = −15°",Silder 2007 (digitized),8.0,1.1284
+knee,"hip = 0°,  ankle = −15°",Silder 2007 (digitized),9.0,0.95698
+knee,"hip = 0°,  ankle = −15°",Silder 2007 (digitized),10.0,0.80627
+knee,"hip = 0°,  ankle = −15°",Silder 2007 (digitized),11.0,0.67283
+knee,"hip = 0°,  ankle = −15°",Silder 2007 (digitized),12.0,0.55362
+knee,"hip = 0°,  ankle = −15°",Silder 2007 (digitized),13.0,0.44568
+knee,"hip = 0°,  ankle = −15°",Silder 2007 (digitized),14.0,0.34673
+knee,"hip = 0°,  ankle = −15°",Silder 2007 (digitized),15.0,0.25622
+knee,"hip = 0°,  ankle = −15°",Silder 2007 (digitized),16.0,0.17387
+knee,"hip = 0°,  ankle = −15°",Silder 2007 (digitized),17.0,0.099062
+knee,"hip = 0°,  ankle = −15°",Silder 2007 (digitized),18.0,0.030115
+knee,"hip = 0°,  ankle = −15°",Silder 2007 (digitized),19.0,-0.034846
+knee,"hip = 0°,  ankle = −15°",Silder 2007 (digitized),20.0,-0.097319
+knee,"hip = 0°,  ankle = −15°",Silder 2007 (digitized),21.0,-0.15749
+knee,"hip = 0°,  ankle = −15°",Silder 2007 (digitized),22.0,-0.21528
+knee,"hip = 0°,  ankle = −15°",Silder 2007 (digitized),23.0,-0.27059
+knee,"hip = 0°,  ankle = −15°",Silder 2007 (digitized),24.0,-0.32352
+knee,"hip = 0°,  ankle = −15°",Silder 2007 (digitized),25.0,-0.37481
+knee,"hip = 0°,  ankle = −15°",Silder 2007 (digitized),26.0,-0.42528
+knee,"hip = 0°,  ankle = −15°",Silder 2007 (digitized),27.0,-0.47573
+knee,"hip = 0°,  ankle = −15°",Silder 2007 (digitized),28.0,-0.52667
+knee,"hip = 0°,  ankle = −15°",Silder 2007 (digitized),29.0,-0.57841
+knee,"hip = 0°,  ankle = −15°",Silder 2007 (digitized),30.0,-0.63122
+knee,"hip = 0°,  ankle = −15°",Silder 2007 (digitized),31.0,-0.68472
+knee,"hip = 0°,  ankle = −15°",Silder 2007 (digitized),32.0,-0.73817
+knee,"hip = 0°,  ankle = −15°",Silder 2007 (digitized),33.0,-0.7908
+knee,"hip = 0°,  ankle = −15°",Silder 2007 (digitized),34.0,-0.84222
+knee,"hip = 0°,  ankle = −15°",Silder 2007 (digitized),35.0,-0.89258
+knee,"hip = 0°,  ankle = −15°",Silder 2007 (digitized),36.0,-0.94205
+knee,"hip = 0°,  ankle = −15°",Silder 2007 (digitized),37.0,-0.99085
+knee,"hip = 0°,  ankle = −15°",Silder 2007 (digitized),38.0,-1.0392
+knee,"hip = 0°,  ankle = −15°",Silder 2007 (digitized),39.0,-1.0874
+knee,"hip = 0°,  ankle = −15°",Silder 2007 (digitized),40.0,-1.1356
+knee,"hip = 0°,  ankle = −15°",Silder 2007 (digitized),41.0,-1.1842
+knee,"hip = 0°,  ankle = −15°",Silder 2007 (digitized),42.0,-1.2335
+knee,"hip = 0°,  ankle = −15°",Silder 2007 (digitized),43.0,-1.284
+knee,"hip = 0°,  ankle = −15°",Silder 2007 (digitized),44.0,-1.3364
+knee,"hip = 0°,  ankle = −15°",Silder 2007 (digitized),45.0,-1.3907
+knee,"hip = 0°,  ankle = −15°",Silder 2007 (digitized),46.0,-1.447
+knee,"hip = 0°,  ankle = −15°",Silder 2007 (digitized),47.0,-1.5054
+knee,"hip = 0°,  ankle = −15°",Silder 2007 (digitized),48.0,-1.565
+knee,"hip = 0°,  ankle = −15°",Silder 2007 (digitized),49.0,-1.6246
+knee,"hip = 0°,  ankle = −15°",Silder 2007 (digitized),50.0,-1.6834
+knee,"hip = 0°,  ankle = −15°",Silder 2007 (digitized),51.0,-1.7419
+knee,"hip = 0°,  ankle = −15°",Silder 2007 (digitized),52.0,-1.8009
+knee,"hip = 0°,  ankle = −15°",Silder 2007 (digitized),53.0,-1.8612
+knee,"hip = 0°,  ankle = −15°",Silder 2007 (digitized),54.0,-1.9236
+knee,"hip = 0°,  ankle = −15°",Silder 2007 (digitized),55.0,-1.9884
+knee,"hip = 0°,  ankle = −15°",Silder 2007 (digitized),56.0,-2.0553
+knee,"hip = 0°,  ankle = −15°",Silder 2007 (digitized),57.0,-2.1237
+knee,"hip = 0°,  ankle = −15°",Silder 2007 (digitized),58.0,-2.1932
+knee,"hip = 0°,  ankle = −15°",Silder 2007 (digitized),59.0,-2.2641
+knee,"hip = 0°,  ankle = −15°",Silder 2007 (digitized),60.0,-2.337
+knee,"hip = 0°,  ankle = −15°",Silder 2007 (digitized),61.0,-2.4123
+knee,"hip = 0°,  ankle = −15°",Silder 2007 (digitized),62.0,-2.4898
+knee,"hip = 0°,  ankle = −15°",Silder 2007 (digitized),63.0,-2.5691
+knee,"hip = 0°,  ankle = −15°",Silder 2007 (digitized),64.0,-2.65
+knee,"hip = 0°,  ankle = −15°",Silder 2007 (digitized),65.0,-2.732
+knee,"hip = 0°,  ankle = −15°",Silder 2007 (digitized),66.0,-2.8151
+knee,"hip = 0°,  ankle = −15°",Silder 2007 (digitized),67.0,-2.8997
+knee,"hip = 0°,  ankle = −15°",Silder 2007 (digitized),68.0,-2.9864
+knee,"hip = 0°,  ankle = −15°",Silder 2007 (digitized),69.0,-3.0758
+knee,"hip = 0°,  ankle = −15°",Silder 2007 (digitized),70.0,-3.1686
+knee,"hip = 0°,  ankle = −15°",Silder 2007 (digitized),71.0,-3.2654
+knee,"hip = 0°,  ankle = −15°",Silder 2007 (digitized),72.0,-3.3661
+knee,"hip = 0°,  ankle = −15°",Silder 2007 (digitized),73.0,-3.4707
+knee,"hip = 0°,  ankle = −15°",Silder 2007 (digitized),74.0,-3.5788
+knee,"hip = 0°,  ankle = −15°",Silder 2007 (digitized),75.0,-3.6908
+knee,"hip = 0°,  ankle = −15°",Silder 2007 (digitized),76.0,-3.8074
+knee,"hip = 0°,  ankle = −15°",Silder 2007 (digitized),77.0,-3.9294
+knee,"hip = 0°,  ankle = −15°",Silder 2007 (digitized),78.0,-4.0572
+knee,"hip = 0°,  ankle = −15°",Silder 2007 (digitized),79.0,-4.1915
+knee,"hip = 0°,  ankle = −15°",Silder 2007 (digitized),80.0,-4.3325
+knee,"hip = 0°,  ankle = −15°",Silder 2007 (digitized),81.0,-4.48
+knee,"hip = 0°,  ankle = −15°",Silder 2007 (digitized),82.0,-4.6336
+knee,"hip = 0°,  ankle = −15°",Silder 2007 (digitized),83.0,-4.7927
+knee,"hip = 0°,  ankle = −15°",Silder 2007 (digitized),84.0,-4.957
+knee,"hip = 0°,  ankle = −15°",Silder 2007 (digitized),85.0,-5.1256
+knee,"hip = 0°,  ankle = −15°",Silder 2007 (digitized),86.0,-5.2973
+knee,"hip = 0°,  ankle = −15°",Silder 2007 (digitized),87.0,-5.4704
+knee,"hip = 0°,  ankle = −15°",Silder 2007 (digitized),88.0,-5.6447
+knee,"hip = 0°,  ankle = −15°",Silder 2007 (digitized),89.0,-5.8217
+knee,"hip = 0°,  ankle = −15°",Silder 2007 (digitized),90.0,-6.0031
+knee,"hip = 0°,  ankle = −15°",Silder 2007 (digitized),91.0,-6.1908
+knee,"hip = 0°,  ankle = −15°",Silder 2007 (digitized),92.0,-6.3864
+knee,"hip = 0°,  ankle = −15°",Silder 2007 (digitized),93.0,-6.59
+knee,"hip = 0°,  ankle = −15°",Silder 2007 (digitized),94.0,-6.8012
+knee,"hip = 0°,  ankle = −15°",Silder 2007 (digitized),95.0,-7.0196
+knee,"hip = 0°,  ankle = −15°",Silder 2007 (digitized),96.0,-7.245
+knee,"hip = 0°,  ankle = −15°",Silder 2007 (digitized),97.0,-7.4778
+knee,"hip = 0°,  ankle = −15°",Silder 2007 (digitized),98.0,-7.7189
+knee,"hip = 0°,  ankle = −15°",Silder 2007 (digitized),99.0,-7.9689
+knee,"hip = 0°,  ankle = −15°",Silder 2007 (digitized),100.0,-8.2287
+knee,"hip = 0°,  ankle = −15°",Silder 2007 (digitized),101.0,-8.5003
+knee,"hip = 0°,  ankle = −15°",Silder 2007 (digitized),102.0,-8.7857
+knee,"hip = 0°,  ankle = −15°",Silder 2007 (digitized),103.0,-9.0866
+knee,"hip = 0°,  ankle = −15°",Silder 2007 (digitized),104.0,-9.4038
+knee,"hip = 0°,  ankle = −15°",Silder 2007 (digitized),105.0,-9.7372
+knee,"hip = 0°,  ankle = −15°",Silder 2007 (digitized),106.0,-10.087
+knee,"hip = 0°,  ankle = −15°",Silder 2007 (digitized),107.0,-10.452
+knee,"hip = 0°,  ankle = −15°",Silder 2007 (digitized),108.0,-10.833
+knee,"hip = 0°,  ankle = −15°",Silder 2007 (digitized),109.0,-11.232
+knee,"hip = 0°,  ankle = −15°",Silder 2007 (digitized),110.0,-11.647
+knee,"hip = 0°,  ankle = −15°",Silder 2007 (digitized),111.0,-12.081
+knee,"hip = 0°,  ankle = −15°",Silder 2007 (digitized),112.0,-12.535
+knee,"hip = 0°,  ankle = −15°",Silder 2007 (digitized),113.0,-13.01
+knee,"hip = 0°,  ankle = −15°",Silder 2007 (digitized),114.0,-13.509
+knee,"hip = 0°,  ankle = −15°",Silder 2007 (digitized),115.0,-14.033
+knee,"hip = 0°,  ankle = −15°",Silder 2007 (digitized),116.0,-14.582
+knee,"hip = 0°,  ankle = −15°",Silder 2007 (digitized),117.0,-15.159
+knee,"hip = 0°,  ankle = −15°",Silder 2007 (digitized),118.0,-15.763
+knee,"hip = 0°,  ankle = −15°",Silder 2007 (digitized),119.0,-16.398
+knee,"hip = 0°,  ankle = −15°",Silder 2007 (digitized),120.0,-17.062
+knee,"hip = −15°,  ankle = 20°",Silder 2007 (digitized),-0.0,19.929
+knee,"hip = −15°,  ankle = 20°",Silder 2007 (digitized),1.0,18.459
+knee,"hip = −15°,  ankle = 20°",Silder 2007 (digitized),2.0,17.019
+knee,"hip = −15°,  ankle = 20°",Silder 2007 (digitized),3.0,15.639
+knee,"hip = −15°,  ankle = 20°",Silder 2007 (digitized),4.0,14.343
+knee,"hip = −15°,  ankle = 20°",Silder 2007 (digitized),5.0,13.146
+knee,"hip = −15°,  ankle = 20°",Silder 2007 (digitized),6.0,12.049
+knee,"hip = −15°,  ankle = 20°",Silder 2007 (digitized),7.0,11.052
+knee,"hip = −15°,  ankle = 20°",Silder 2007 (digitized),8.0,10.151
+knee,"hip = −15°,  ankle = 20°",Silder 2007 (digitized),9.0,9.3349
+knee,"hip = −15°,  ankle = 20°",Silder 2007 (digitized),10.0,8.5915
+knee,"hip = −15°,  ankle = 20°",Silder 2007 (digitized),11.0,7.9103
+knee,"hip = −15°,  ankle = 20°",Silder 2007 (digitized),12.0,7.2822
+knee,"hip = −15°,  ankle = 20°",Silder 2007 (digitized),13.0,6.702
+knee,"hip = −15°,  ankle = 20°",Silder 2007 (digitized),14.0,6.1673
+knee,"hip = −15°,  ankle = 20°",Silder 2007 (digitized),15.0,5.6754
+knee,"hip = −15°,  ankle = 20°",Silder 2007 (digitized),16.0,5.2225
+knee,"hip = −15°,  ankle = 20°",Silder 2007 (digitized),17.0,4.8045
+knee,"hip = −15°,  ankle = 20°",Silder 2007 (digitized),18.0,4.4176
+knee,"hip = −15°,  ankle = 20°",Silder 2007 (digitized),19.0,4.0574
+knee,"hip = −15°,  ankle = 20°",Silder 2007 (digitized),20.0,3.7199
+knee,"hip = −15°,  ankle = 20°",Silder 2007 (digitized),21.0,3.401
+knee,"hip = −15°,  ankle = 20°",Silder 2007 (digitized),22.0,3.0965
+knee,"hip = −15°,  ankle = 20°",Silder 2007 (digitized),23.0,2.8038
+knee,"hip = −15°,  ankle = 20°",Silder 2007 (digitized),24.0,2.5225
+knee,"hip = −15°,  ankle = 20°",Silder 2007 (digitized),25.0,2.2518
+knee,"hip = −15°,  ankle = 20°",Silder 2007 (digitized),26.0,1.9912
+knee,"hip = −15°,  ankle = 20°",Silder 2007 (digitized),27.0,1.7401
+knee,"hip = −15°,  ankle = 20°",Silder 2007 (digitized),28.0,1.4979
+knee,"hip = −15°,  ankle = 20°",Silder 2007 (digitized),29.0,1.2641
+knee,"hip = −15°,  ankle = 20°",Silder 2007 (digitized),30.0,1.038
+knee,"hip = −15°,  ankle = 20°",Silder 2007 (digitized),31.0,0.81921
+knee,"hip = −15°,  ankle = 20°",Silder 2007 (digitized),32.0,0.60707
+knee,"hip = −15°,  ankle = 20°",Silder 2007 (digitized),33.0,0.40117
+knee,"hip = −15°,  ankle = 20°",Silder 2007 (digitized),34.0,0.20108
+knee,"hip = −15°,  ankle = 20°",Silder 2007 (digitized),35.0,0.0063747
+knee,"hip = −15°,  ankle = 20°",Silder 2007 (digitized),36.0,-0.18355
+knee,"hip = −15°,  ankle = 20°",Silder 2007 (digitized),37.0,-0.36957
+knee,"hip = −15°,  ankle = 20°",Silder 2007 (digitized),38.0,-0.55255
+knee,"hip = −15°,  ankle = 20°",Silder 2007 (digitized),39.0,-0.73337
+knee,"hip = −15°,  ankle = 20°",Silder 2007 (digitized),40.0,-0.9129
+knee,"hip = −15°,  ankle = 20°",Silder 2007 (digitized),41.0,-1.0912
+knee,"hip = −15°,  ankle = 20°",Silder 2007 (digitized),42.0,-1.2677
+knee,"hip = −15°,  ankle = 20°",Silder 2007 (digitized),43.0,-1.4417
+knee,"hip = −15°,  ankle = 20°",Silder 2007 (digitized),44.0,-1.6125
+knee,"hip = −15°,  ankle = 20°",Silder 2007 (digitized),45.0,-1.7796
+knee,"hip = −15°,  ankle = 20°",Silder 2007 (digitized),46.0,-1.9437
+knee,"hip = −15°,  ankle = 20°",Silder 2007 (digitized),47.0,-2.1059
+knee,"hip = −15°,  ankle = 20°",Silder 2007 (digitized),48.0,-2.2672
+knee,"hip = −15°,  ankle = 20°",Silder 2007 (digitized),49.0,-2.4286
+knee,"hip = −15°,  ankle = 20°",Silder 2007 (digitized),50.0,-2.5909
+knee,"hip = −15°,  ankle = 20°",Silder 2007 (digitized),51.0,-2.7543
+knee,"hip = −15°,  ankle = 20°",Silder 2007 (digitized),52.0,-2.9187
+knee,"hip = −15°,  ankle = 20°",Silder 2007 (digitized),53.0,-3.0844
+knee,"hip = −15°,  ankle = 20°",Silder 2007 (digitized),54.0,-3.2514
+knee,"hip = −15°,  ankle = 20°",Silder 2007 (digitized),55.0,-3.4197
+knee,"hip = −15°,  ankle = 20°",Silder 2007 (digitized),56.0,-3.5893
+knee,"hip = −15°,  ankle = 20°",Silder 2007 (digitized),57.0,-3.7602
+knee,"hip = −15°,  ankle = 20°",Silder 2007 (digitized),58.0,-3.9324
+knee,"hip = −15°,  ankle = 20°",Silder 2007 (digitized),59.0,-4.106
+knee,"hip = −15°,  ankle = 20°",Silder 2007 (digitized),60.0,-4.2815
+knee,"hip = −15°,  ankle = 20°",Silder 2007 (digitized),61.0,-4.4595
+knee,"hip = −15°,  ankle = 20°",Silder 2007 (digitized),62.0,-4.6409
+knee,"hip = −15°,  ankle = 20°",Silder 2007 (digitized),63.0,-4.8261
+knee,"hip = −15°,  ankle = 20°",Silder 2007 (digitized),64.0,-5.0158
+knee,"hip = −15°,  ankle = 20°",Silder 2007 (digitized),65.0,-5.21
+knee,"hip = −15°,  ankle = 20°",Silder 2007 (digitized),66.0,-5.409
+knee,"hip = −15°,  ankle = 20°",Silder 2007 (digitized),67.0,-5.6128
+knee,"hip = −15°,  ankle = 20°",Silder 2007 (digitized),68.0,-5.8217
+knee,"hip = −15°,  ankle = 20°",Silder 2007 (digitized),69.0,-6.0357
+knee,"hip = −15°,  ankle = 20°",Silder 2007 (digitized),70.0,-6.2548
+knee,"hip = −15°,  ankle = 20°",Silder 2007 (digitized),71.0,-6.4788
+knee,"hip = −15°,  ankle = 20°",Silder 2007 (digitized),72.0,-6.7078
+knee,"hip = −15°,  ankle = 20°",Silder 2007 (digitized),73.0,-6.9416
+knee,"hip = −15°,  ankle = 20°",Silder 2007 (digitized),74.0,-7.1804
+knee,"hip = −15°,  ankle = 20°",Silder 2007 (digitized),75.0,-7.4238
+knee,"hip = −15°,  ankle = 20°",Silder 2007 (digitized),76.0,-7.6718
+knee,"hip = −15°,  ankle = 20°",Silder 2007 (digitized),77.0,-7.9246
+knee,"hip = −15°,  ankle = 20°",Silder 2007 (digitized),78.0,-8.1824
+knee,"hip = −15°,  ankle = 20°",Silder 2007 (digitized),79.0,-8.4462
+knee,"hip = −15°,  ankle = 20°",Silder 2007 (digitized),80.0,-8.7165
+knee,"hip = −15°,  ankle = 20°",Silder 2007 (digitized),81.0,-8.9939
+knee,"hip = −15°,  ankle = 20°",Silder 2007 (digitized),82.0,-9.2794
+knee,"hip = −15°,  ankle = 20°",Silder 2007 (digitized),83.0,-9.5738
+knee,"hip = −15°,  ankle = 20°",Silder 2007 (digitized),84.0,-9.8781
+knee,"hip = −15°,  ankle = 20°",Silder 2007 (digitized),85.0,-10.193
+knee,"hip = −15°,  ankle = 20°",Silder 2007 (digitized),86.0,-10.519
+knee,"hip = −15°,  ankle = 20°",Silder 2007 (digitized),87.0,-10.858
+knee,"hip = −15°,  ankle = 20°",Silder 2007 (digitized),88.0,-11.208
+knee,"hip = −15°,  ankle = 20°",Silder 2007 (digitized),89.0,-11.571
+knee,"hip = −15°,  ankle = 20°",Silder 2007 (digitized),90.0,-11.947
+knee,"hip = −15°,  ankle = 20°",Silder 2007 (digitized),91.0,-12.335
+knee,"hip = −15°,  ankle = 20°",Silder 2007 (digitized),92.0,-12.736
+knee,"hip = −15°,  ankle = 20°",Silder 2007 (digitized),93.0,-13.15
+knee,"hip = −15°,  ankle = 20°",Silder 2007 (digitized),94.0,-13.578
+knee,"hip = −15°,  ankle = 20°",Silder 2007 (digitized),95.0,-14.02
+knee,"hip = −15°,  ankle = 20°",Silder 2007 (digitized),96.0,-14.478
+knee,"hip = −15°,  ankle = 20°",Silder 2007 (digitized),97.0,-14.952
+knee,"hip = −15°,  ankle = 20°",Silder 2007 (digitized),98.0,-15.443
+knee,"hip = −15°,  ankle = 20°",Silder 2007 (digitized),99.0,-15.95
+knee,"hip = −15°,  ankle = 20°",Silder 2007 (digitized),100.0,-16.475
+knee,"hip = −15°,  ankle = 20°",Silder 2007 (digitized),101.0,-17.016
+knee,"hip = −15°,  ankle = 20°",Silder 2007 (digitized),102.0,-17.577
+knee,"hip = −15°,  ankle = 20°",Silder 2007 (digitized),103.0,-18.159
+knee,"hip = −15°,  ankle = 20°",Silder 2007 (digitized),104.0,-18.765
+knee,"hip = −15°,  ankle = 20°",Silder 2007 (digitized),105.0,-19.397
+knee,"hip = −15°,  ankle = 20°",Silder 2007 (digitized),106.0,-20.059
+knee,"hip = −15°,  ankle = 20°",Silder 2007 (digitized),107.0,-20.752
+knee,"hip = −15°,  ankle = 20°",Silder 2007 (digitized),108.0,-21.481
+knee,"hip = −15°,  ankle = 20°",Silder 2007 (digitized),109.0,-22.249
+knee,"hip = −15°,  ankle = 20°",Silder 2007 (digitized),110.0,-23.057
+knee,"hip = −15°,  ankle = 20°",Silder 2007 (digitized),111.0,-23.906
+knee,"hip = −15°,  ankle = 20°",Silder 2007 (digitized),112.0,-24.795
+knee,"hip = −15°,  ankle = 20°",Silder 2007 (digitized),113.0,-25.722
+knee,"hip = −15°,  ankle = 20°",Silder 2007 (digitized),114.0,-26.682
+knee,"hip = −15°,  ankle = 20°",Silder 2007 (digitized),115.0,-27.675
+knee,"hip = −15°,  ankle = 20°",Silder 2007 (digitized),116.0,-28.699
+knee,"hip = −15°,  ankle = 20°",Silder 2007 (digitized),117.0,-29.752
+knee,"hip = −15°,  ankle = 20°",Silder 2007 (digitized),118.0,-30.833
+knee,"hip = −15°,  ankle = 20°",Silder 2007 (digitized),119.0,-31.94
+knee,"hip = −15°,  ankle = 20°",Silder 2007 (digitized),120.0,-33.072

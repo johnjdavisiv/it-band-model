@@ -1,0 +1,12 @@
+# To create: conda env create -f environment.yml     # then: conda activate osim46
+name: osim46
+channels:
+  - conda-forge
+  - opensim-org
+dependencies:
+  - python=3.13
+  - opensim=4.6          # opensim-org channel; carries the Moco/CasADi/IPOPT solver stack
+  - numpy=2.4.6          # opensim 4.6 is a numpy-2.4 build
+  - scipy=1.18.0
+  - pandas=3.0.3
+  - matplotlib=3.10.9

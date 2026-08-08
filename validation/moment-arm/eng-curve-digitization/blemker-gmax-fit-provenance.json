@@ -1,0 +1,120 @@
+{
+  "description": "Blemker gluteus-maximus moment-arm bounds, fit with a 4th-degree polynomial (per Eng et al.) and resampled onto a uniform 201-point grid, in our model's coordinate convention (hip +flexion/+adduction/+internal-rotation).",
+  "poly_degree": 4,
+  "n_grid": 201,
+  "coeff_basis": "power, ascending (moment_arm_cm = sum c[i]*angle_deg**i)",
+  "bound_type_note": "GOTCHA: bound_type ('lower'/'upper') labels Blemker's ORIGINAL fiber-band edge (min/max moment arm across fibers), NOT the visual top/bottom of the plotted curve. For the hip_flexion panel the MA is sign-flipped (extension->flexion), so the 'upper' bound (largest extension MA = most extensor) plots at the BOTTOM in model convention. adduction & rotation are not flipped, so their 'upper' stays on top.",
+  "panels": {
+    "hip_flexion": {
+      "raw_file": "blemker-gmax-hip-extension-raw.csv",
+      "blemker_angle_axis": "hip flexion angle (deg)",
+      "blemker_moment_arm_axis": "hip extension moment arm (cm)",
+      "angle_sign_to_model": 1.0,
+      "moment_arm_sign_to_model": -1.0,
+      "grid_deg": [
+        0.0,
+        100.0
+      ],
+      "bounds": {
+        "lower": {
+          "n_digitized_points": 15,
+          "poly_coeffs": [
+            -0.8918511243772442,
+            -0.05300142486091627,
+            0.0008155042543846617,
+            5.051009142193941e-07,
+            -2.608718954818636e-08
+          ],
+          "resid_rms_cm": 0.00956,
+          "resid_max_cm": 0.02112
+        },
+        "upper": {
+          "n_digitized_points": 16,
+          "poly_coeffs": [
+            -6.563526818357546,
+            -0.03542867913031266,
+            0.0003593939091533523,
+            5.6849167181201705e-06,
+            -4.8868002975026255e-08
+          ],
+          "resid_rms_cm": 0.01021,
+          "resid_max_cm": 0.01926
+        }
+      }
+    },
+    "hip_adduction": {
+      "raw_file": "blemker-gmax-hip-adduction-raw.csv",
+      "blemker_angle_axis": "hip adduction angle (deg)",
+      "blemker_moment_arm_axis": "hip adduction moment arm (cm)",
+      "angle_sign_to_model": 1.0,
+      "moment_arm_sign_to_model": 1.0,
+      "grid_deg": [
+        -40.0,
+        40.0
+      ],
+      "bounds": {
+        "lower": {
+          "n_digitized_points": 18,
+          "poly_coeffs": [
+            -3.4093640606991524,
+            0.07807803765114545,
+            0.000338929895746798,
+            2.1052984953829107e-06,
+            -3.865653181203897e-08
+          ],
+          "resid_rms_cm": 0.01767,
+          "resid_max_cm": 0.02778
+        },
+        "upper": {
+          "n_digitized_points": 19,
+          "poly_coeffs": [
+            5.133248239307175,
+            0.08940978385251012,
+            -0.0007910933972006159,
+            -8.406144131767836e-06,
+            7.337607550554724e-08
+          ],
+          "resid_rms_cm": 0.02786,
+          "resid_max_cm": 0.05711
+        }
+      }
+    },
+    "hip_rotation": {
+      "raw_file": "blemker-gmax-hip-rotation-raw.csv",
+      "blemker_angle_axis": "hip internal rotation angle (deg)",
+      "blemker_moment_arm_axis": "hip internal rotation moment arm (cm)",
+      "angle_sign_to_model": 1.0,
+      "moment_arm_sign_to_model": 1.0,
+      "grid_deg": [
+        -30.0,
+        30.0
+      ],
+      "bounds": {
+        "lower": {
+          "n_digitized_points": 15,
+          "poly_coeffs": [
+            -3.8419415342746284,
+            0.015408105947227293,
+            0.00019316521145322025,
+            1.8213534258647302e-06,
+            -4.614280088483955e-08
+          ],
+          "resid_rms_cm": 0.01588,
+          "resid_max_cm": 0.032
+        },
+        "upper": {
+          "n_digitized_points": 19,
+          "poly_coeffs": [
+            -0.5954828994620572,
+            -0.015674853549507258,
+            2.7731316076687683e-05,
+            1.4975967759618655e-08,
+            4.3186721781702125e-09
+          ],
+          "resid_rms_cm": 0.00689,
+          "resid_max_cm": 0.01273
+        }
+      }
+    }
+  }
+}

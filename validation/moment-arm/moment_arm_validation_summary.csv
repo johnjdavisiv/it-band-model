@@ -1,0 +1,17 @@
+model,dataset,scope,n_panels,mean_within_band_pct,min_within_band_pct,mean_rmse_cm,max_rmse_cm,mean_half_spread_cm,max_half_spread_cm,mean_pooled_rmse_cm,mean_mae_persubtract_cm,mean_rmse_persubtract_RETIRED_cm
+step14,Blemker2005,all,18,87.7,51.7,1.761,4.679,0.0,0.0,1.761,1.529,1.763
+step14,Blemker2005,hip_adduction,6,78.2,51.7,3.079,4.679,0.0,0.0,3.079,2.711,3.081
+step14,Blemker2005,hip_flexion,6,90.0,65.7,1.353,2.449,0.0,0.0,1.353,1.169,1.355
+step14,Blemker2005,hip_rotation,6,95.0,84.1,0.852,1.146,0.0,0.0,0.852,0.707,0.854
+step2,Blemker2005,all,18,86.0,40.8,1.874,4.679,0.0,0.0,1.874,1.627,1.877
+step2,Blemker2005,hip_adduction,6,81.1,51.7,2.966,4.679,0.0,0.0,2.966,2.611,2.969
+step2,Blemker2005,hip_flexion,6,81.8,40.8,1.816,3.572,0.0,0.0,1.816,1.58,1.821
+step2,Blemker2005,hip_rotation,6,95.2,84.1,0.84,1.146,0.0,0.0,0.84,0.691,0.842
+step14,Eng2015,all,9,100.0,100.0,0.405,0.58,0.523,1.199,0.714,0.655,0.692
+step14,Eng2015,hip_adduction,3,100.0,100.0,0.393,0.496,0.848,1.199,0.947,0.83,0.861
+step14,Eng2015,hip_flexion,3,100.0,100.0,0.452,0.58,0.605,0.891,0.805,0.704,0.744
+step14,Eng2015,knee_flexion,3,100.0,100.0,0.371,0.557,0.115,0.198,0.391,0.387,0.428
+step2,Eng2015,all,9,78.3,0.0,0.35,0.723,0.523,1.199,0.731,0.687,0.716
+step2,Eng2015,hip_adduction,3,98.3,95.0,0.247,0.369,0.848,1.199,0.894,0.831,0.866
+step2,Eng2015,hip_flexion,3,100.0,100.0,0.145,0.184,0.605,0.891,0.628,0.57,0.609
+step2,Eng2015,knee_flexion,3,36.7,0.0,0.658,0.723,0.115,0.198,0.672,0.656,0.665

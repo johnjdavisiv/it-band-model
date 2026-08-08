@@ -1,0 +1,221 @@
+track,cycle,emd_ms,muscle,model_tracts,r,rmse,r_meanagg,rmse_meanagg
+davis,1,0.0,soleus,soleus_r,0.4843,0.2258,,
+davis,1,0.0,gastroc med,gasmed_r,0.3917,0.2262,,
+davis,1,0.0,gastroc lat,gaslat_r,0.4371,0.1901,,
+davis,1,0.0,tib ant,tibant_r,0.4936,0.1638,,
+davis,1,0.0,vastus lat,vaslat_r,0.8004,0.1355,,
+davis,1,0.0,vastus med,vasmed_r,0.5403,0.1689,,
+davis,1,0.0,rectus fem,recfem_r,-0.2194,0.2223,,
+davis,1,0.0,biceps fem lh,bflh_r,0.3567,0.1572,,
+davis,1,0.0,semimem+ten (1 electrode),semimem_r+semiten_r,0.4358,0.1223,0.3381,0.133
+davis,1,0.0,glute max (1 electrode),glmax1_r+glmax2_r+glmax3_r+glmax4_r+glmax12_ITB_r+glmax34_ITB_r,0.6584,0.137,0.6632,0.1379
+davis,1,0.0,glute med (1 electrode),glmed1_r+glmed2_r+glmed3_r,0.6305,0.1514,0.6462,0.1473
+davis,1,75.0,soleus,soleus_r,0.916,0.0926,,
+davis,1,75.0,gastroc med,gasmed_r,0.8798,0.1103,,
+davis,1,75.0,gastroc lat,gaslat_r,0.8965,0.104,,
+davis,1,75.0,tib ant,tibant_r,0.3597,0.163,,
+davis,1,75.0,vastus lat,vaslat_r,0.628,0.1794,,
+davis,1,75.0,vastus med,vasmed_r,0.8566,0.0964,,
+davis,1,75.0,rectus fem,recfem_r,0.221,0.1795,,
+davis,1,75.0,biceps fem lh,bflh_r,0.7024,0.1445,,
+davis,1,75.0,semimem+ten (1 electrode),semimem_r+semiten_r,0.8154,0.0801,0.7957,0.0821
+davis,1,75.0,glute max (1 electrode),glmax1_r+glmax2_r+glmax3_r+glmax4_r+glmax12_ITB_r+glmax34_ITB_r,0.2125,0.1894,0.1996,0.1957
+davis,1,75.0,glute med (1 electrode),glmed1_r+glmed2_r+glmed3_r,0.9207,0.078,0.9179,0.0778
+davis,2,0.0,soleus,soleus_r,0.4319,0.1685,,
+davis,2,0.0,gastroc med,gasmed_r,0.3013,0.2377,,
+davis,2,0.0,gastroc lat,gaslat_r,0.5022,0.1515,,
+davis,2,0.0,tib ant,tibant_r,0.548,0.1735,,
+davis,2,0.0,vastus lat,vaslat_r,0.6038,0.1604,,
+davis,2,0.0,vastus med,vasmed_r,0.5779,0.1682,,
+davis,2,0.0,rectus fem,recfem_r,-0.1727,0.2317,,
+davis,2,0.0,biceps fem lh,bflh_r,0.3055,0.1485,,
+davis,2,0.0,semimem+ten (1 electrode),semimem_r+semiten_r,0.2965,0.142,0.2017,0.1524
+davis,2,0.0,glute max (1 electrode),glmax1_r+glmax2_r+glmax3_r+glmax4_r+glmax12_ITB_r+glmax34_ITB_r,0.7731,0.1327,0.7747,0.1325
+davis,2,0.0,glute med (1 electrode),glmed1_r+glmed2_r+glmed3_r,0.5833,0.1683,0.5995,0.1643
+davis,2,75.0,soleus,soleus_r,0.9001,0.0768,,
+davis,2,75.0,gastroc med,gasmed_r,0.8398,0.1372,,
+davis,2,75.0,gastroc lat,gaslat_r,0.7318,0.1298,,
+davis,2,75.0,tib ant,tibant_r,0.4502,0.1834,,
+davis,2,75.0,vastus lat,vaslat_r,0.8391,0.1026,,
+davis,2,75.0,vastus med,vasmed_r,0.8438,0.1046,,
+davis,2,75.0,rectus fem,recfem_r,0.1691,0.2036,,
+davis,2,75.0,biceps fem lh,bflh_r,0.7176,0.1253,,
+davis,2,75.0,semimem+ten (1 electrode),semimem_r+semiten_r,0.7828,0.1038,0.735,0.1078
+davis,2,75.0,glute max (1 electrode),glmax1_r+glmax2_r+glmax3_r+glmax4_r+glmax12_ITB_r+glmax34_ITB_r,0.3299,0.2007,0.3235,0.205
+davis,2,75.0,glute med (1 electrode),glmed1_r+glmed2_r+glmed3_r,0.9233,0.0774,0.9241,0.0761
+davis,3,0.0,soleus,soleus_r,0.7125,0.1593,,
+davis,3,0.0,gastroc med,gasmed_r,0.2465,0.2614,,
+davis,3,0.0,gastroc lat,gaslat_r,0.5562,0.1834,,
+davis,3,0.0,tib ant,tibant_r,0.5695,0.1668,,
+davis,3,0.0,vastus lat,vaslat_r,0.8118,0.1144,,
+davis,3,0.0,vastus med,vasmed_r,0.7263,0.1722,,
+davis,3,0.0,rectus fem,recfem_r,-0.0973,0.2669,,
+davis,3,0.0,biceps fem lh,bflh_r,0.407,0.1615,,
+davis,3,0.0,semimem+ten (1 electrode),semimem_r+semiten_r,0.3846,0.1278,0.2619,0.1397
+davis,3,0.0,glute max (1 electrode),glmax1_r+glmax2_r+glmax3_r+glmax4_r+glmax12_ITB_r+glmax34_ITB_r,0.6404,0.1887,0.5889,0.1967
+davis,3,0.0,glute med (1 electrode),glmed1_r+glmed2_r+glmed3_r,0.6449,0.1639,0.6541,0.16
+davis,3,75.0,soleus,soleus_r,0.8117,0.1328,,
+davis,3,75.0,gastroc med,gasmed_r,0.8531,0.1211,,
+davis,3,75.0,gastroc lat,gaslat_r,0.841,0.1277,,
+davis,3,75.0,tib ant,tibant_r,0.3693,0.212,,
+davis,3,75.0,vastus lat,vaslat_r,0.6444,0.1566,,
+davis,3,75.0,vastus med,vasmed_r,0.7183,0.1737,,
+davis,3,75.0,rectus fem,recfem_r,0.1474,0.2375,,
+davis,3,75.0,biceps fem lh,bflh_r,0.6022,0.1381,,
+davis,3,75.0,semimem+ten (1 electrode),semimem_r+semiten_r,0.764,0.0805,0.7221,0.0856
+davis,3,75.0,glute max (1 electrode),glmax1_r+glmax2_r+glmax3_r+glmax4_r+glmax12_ITB_r+glmax34_ITB_r,0.3849,0.1606,0.3852,0.1637
+davis,3,75.0,glute med (1 electrode),glmed1_r+glmed2_r+glmed3_r,0.8602,0.1049,0.8595,0.1038
+davis,4,0.0,soleus,soleus_r,0.5425,0.167,,
+davis,4,0.0,gastroc med,gasmed_r,0.3258,0.2425,,
+davis,4,0.0,gastroc lat,gaslat_r,0.7068,0.1476,,
+davis,4,0.0,tib ant,tibant_r,0.4653,0.2146,,
+davis,4,0.0,vastus lat,vaslat_r,0.7032,0.1543,,
+davis,4,0.0,vastus med,vasmed_r,0.5884,0.149,,
+davis,4,0.0,rectus fem,recfem_r,-0.3152,0.2451,,
+davis,4,0.0,biceps fem lh,bflh_r,0.6237,0.1364,,
+davis,4,0.0,semimem+ten (1 electrode),semimem_r+semiten_r,0.3568,0.1311,0.237,0.1445
+davis,4,0.0,glute max (1 electrode),glmax1_r+glmax2_r+glmax3_r+glmax4_r+glmax12_ITB_r+glmax34_ITB_r,0.7763,0.0984,0.7727,0.103
+davis,4,0.0,glute med (1 electrode),glmed1_r+glmed2_r+glmed3_r,0.7165,0.1328,0.7319,0.1287
+davis,4,75.0,soleus,soleus_r,0.9349,0.0778,,
+davis,4,75.0,gastroc med,gasmed_r,0.8601,0.1276,,
+davis,4,75.0,gastroc lat,gaslat_r,0.7184,0.146,,
+davis,4,75.0,tib ant,tibant_r,0.4991,0.1872,,
+davis,4,75.0,vastus lat,vaslat_r,0.7117,0.1512,,
+davis,4,75.0,vastus med,vasmed_r,0.8124,0.1006,,
+davis,4,75.0,rectus fem,recfem_r,0.1048,0.2063,,
+davis,4,75.0,biceps fem lh,bflh_r,0.8466,0.102,,
+davis,4,75.0,semimem+ten (1 electrode),semimem_r+semiten_r,0.7112,0.0989,0.6429,0.1071
+davis,4,75.0,glute max (1 electrode),glmax1_r+glmax2_r+glmax3_r+glmax4_r+glmax12_ITB_r+glmax34_ITB_r,0.5123,0.2171,0.5128,0.2189
+davis,4,75.0,glute med (1 electrode),glmed1_r+glmed2_r+glmed3_r,0.8204,0.1118,0.8172,0.1113
+davis,5,0.0,soleus,soleus_r,0.5095,0.1775,,
+davis,5,0.0,gastroc med,gasmed_r,0.3088,0.2352,,
+davis,5,0.0,gastroc lat,gaslat_r,0.4734,0.1917,,
+davis,5,0.0,tib ant,tibant_r,0.6857,0.1457,,
+davis,5,0.0,vastus lat,vaslat_r,0.6185,0.1531,,
+davis,5,0.0,vastus med,vasmed_r,0.6233,0.1775,,
+davis,5,0.0,rectus fem,recfem_r,-0.2439,0.1881,,
+davis,5,0.0,biceps fem lh,bflh_r,0.3651,0.1891,,
+davis,5,0.0,semimem+ten (1 electrode),semimem_r+semiten_r,0.4303,0.1555,0.3198,0.1647
+davis,5,0.0,glute max (1 electrode),glmax1_r+glmax2_r+glmax3_r+glmax4_r+glmax12_ITB_r+glmax34_ITB_r,0.7822,0.0884,0.7569,0.0981
+davis,5,0.0,glute med (1 electrode),glmed1_r+glmed2_r+glmed3_r,0.68,0.1343,0.7011,0.1297
+davis,5,75.0,soleus,soleus_r,0.9666,0.0547,,
+davis,5,75.0,gastroc med,gasmed_r,0.8969,0.0936,,
+davis,5,75.0,gastroc lat,gaslat_r,0.9092,0.1179,,
+davis,5,75.0,tib ant,tibant_r,0.2356,0.2423,,
+davis,5,75.0,vastus lat,vaslat_r,0.8085,0.1093,,
+davis,5,75.0,vastus med,vasmed_r,0.8058,0.1369,,
+davis,5,75.0,rectus fem,recfem_r,0.1709,0.1577,,
+davis,5,75.0,biceps fem lh,bflh_r,0.5742,0.1727,,
+davis,5,75.0,semimem+ten (1 electrode),semimem_r+semiten_r,0.7752,0.1018,0.7451,0.1034
+davis,5,75.0,glute max (1 electrode),glmax1_r+glmax2_r+glmax3_r+glmax4_r+glmax12_ITB_r+glmax34_ITB_r,0.3729,0.1435,0.38,0.1492
+davis,5,75.0,glute med (1 electrode),glmed1_r+glmed2_r+glmed3_r,0.8722,0.0952,0.8702,0.095
+raj,1,0.0,soleus,soleus_r,0.4808,0.2264,,
+raj,1,0.0,gastroc med,gasmed_r,0.3902,0.2259,,
+raj,1,0.0,gastroc lat,gaslat_r,0.4345,0.191,,
+raj,1,0.0,tib ant,tibant_r,0.5051,0.1616,,
+raj,1,0.0,vastus lat,vaslat_r,0.8039,0.1357,,
+raj,1,0.0,vastus med,vasmed_r,0.5422,0.1674,,
+raj,1,0.0,rectus fem,recfem_r,-0.2054,0.2397,,
+raj,1,0.0,biceps fem lh,bflh_r,0.3793,0.156,,
+raj,1,0.0,semimem+ten (1 electrode),semimem_r+semiten_r,0.4496,0.1219,0.3472,0.1337
+raj,1,0.0,glute max (1 electrode),glmax1_r+glmax2_r+glmax3_r,0.6698,0.1372,0.6679,0.1369
+raj,1,0.0,glute med (1 electrode),glmed1_r+glmed2_r+glmed3_r,0.6097,0.147,0.6242,0.1432
+raj,1,75.0,soleus,soleus_r,0.9154,0.0929,,
+raj,1,75.0,gastroc med,gasmed_r,0.8768,0.1107,,
+raj,1,75.0,gastroc lat,gaslat_r,0.892,0.1062,,
+raj,1,75.0,tib ant,tibant_r,0.3374,0.1657,,
+raj,1,75.0,vastus lat,vaslat_r,0.6357,0.1771,,
+raj,1,75.0,vastus med,vasmed_r,0.8645,0.0944,,
+raj,1,75.0,rectus fem,recfem_r,0.1689,0.2012,,
+raj,1,75.0,biceps fem lh,bflh_r,0.6916,0.1459,,
+raj,1,75.0,semimem+ten (1 electrode),semimem_r+semiten_r,0.7943,0.083,0.767,0.0865
+raj,1,75.0,glute max (1 electrode),glmax1_r+glmax2_r+glmax3_r,0.224,0.1973,0.2169,0.1968
+raj,1,75.0,glute med (1 electrode),glmed1_r+glmed2_r+glmed3_r,0.9289,0.0661,0.9273,0.0657
+raj,2,0.0,soleus,soleus_r,0.4301,0.1684,,
+raj,2,0.0,gastroc med,gasmed_r,0.2963,0.2381,,
+raj,2,0.0,gastroc lat,gaslat_r,0.4957,0.1538,,
+raj,2,0.0,tib ant,tibant_r,0.5593,0.1711,,
+raj,2,0.0,vastus lat,vaslat_r,0.6043,0.1577,,
+raj,2,0.0,vastus med,vasmed_r,0.5789,0.1674,,
+raj,2,0.0,rectus fem,recfem_r,-0.2025,0.278,,
+raj,2,0.0,biceps fem lh,bflh_r,0.4117,0.1392,,
+raj,2,0.0,semimem+ten (1 electrode),semimem_r+semiten_r,0.3094,0.1417,0.2102,0.153
+raj,2,0.0,glute max (1 electrode),glmax1_r+glmax2_r+glmax3_r,0.766,0.1319,0.7617,0.133
+raj,2,0.0,glute med (1 electrode),glmed1_r+glmed2_r+glmed3_r,0.5598,0.1632,0.5744,0.1596
+raj,2,75.0,soleus,soleus_r,0.8997,0.0772,,
+raj,2,75.0,gastroc med,gasmed_r,0.8351,0.1375,,
+raj,2,75.0,gastroc lat,gaslat_r,0.731,0.1318,,
+raj,2,75.0,tib ant,tibant_r,0.4355,0.1857,,
+raj,2,75.0,vastus lat,vaslat_r,0.8471,0.0983,,
+raj,2,75.0,vastus med,vasmed_r,0.8525,0.1028,,
+raj,2,75.0,rectus fem,recfem_r,0.1213,0.2509,,
+raj,2,75.0,biceps fem lh,bflh_r,0.6936,0.1255,,
+raj,2,75.0,semimem+ten (1 electrode),semimem_r+semiten_r,0.7826,0.1037,0.7308,0.1083
+raj,2,75.0,glute max (1 electrode),glmax1_r+glmax2_r+glmax3_r,0.3682,0.2009,0.3666,0.2002
+raj,2,75.0,glute med (1 electrode),glmed1_r+glmed2_r+glmed3_r,0.9333,0.0639,0.9351,0.0625
+raj,3,0.0,soleus,soleus_r,0.7111,0.1597,,
+raj,3,0.0,gastroc med,gasmed_r,0.2434,0.2614,,
+raj,3,0.0,gastroc lat,gaslat_r,0.5535,0.1842,,
+raj,3,0.0,tib ant,tibant_r,0.5776,0.1646,,
+raj,3,0.0,vastus lat,vaslat_r,0.8177,0.1115,,
+raj,3,0.0,vastus med,vasmed_r,0.7307,0.173,,
+raj,3,0.0,rectus fem,recfem_r,-0.1141,0.3023,,
+raj,3,0.0,biceps fem lh,bflh_r,0.4483,0.1582,,
+raj,3,0.0,semimem+ten (1 electrode),semimem_r+semiten_r,0.3992,0.1274,0.2737,0.1399
+raj,3,0.0,glute max (1 electrode),glmax1_r+glmax2_r+glmax3_r,0.5276,0.204,0.5157,0.206
+raj,3,0.0,glute med (1 electrode),glmed1_r+glmed2_r+glmed3_r,0.6331,0.1578,0.6419,0.1544
+raj,3,75.0,soleus,soleus_r,0.8124,0.1327,,
+raj,3,75.0,gastroc med,gasmed_r,0.8518,0.1211,,
+raj,3,75.0,gastroc lat,gaslat_r,0.8413,0.1282,,
+raj,3,75.0,tib ant,tibant_r,0.3579,0.213,,
+raj,3,75.0,vastus lat,vaslat_r,0.6563,0.1521,,
+raj,3,75.0,vastus med,vasmed_r,0.7305,0.1726,,
+raj,3,75.0,rectus fem,recfem_r,0.0719,0.2765,,
+raj,3,75.0,biceps fem lh,bflh_r,0.6005,0.1381,,
+raj,3,75.0,semimem+ten (1 electrode),semimem_r+semiten_r,0.7681,0.0803,0.7214,0.086
+raj,3,75.0,glute max (1 electrode),glmax1_r+glmax2_r+glmax3_r,0.3828,0.1684,0.384,0.1667
+raj,3,75.0,glute med (1 electrode),glmed1_r+glmed2_r+glmed3_r,0.87,0.0955,0.8711,0.0943
+raj,4,0.0,soleus,soleus_r,0.5408,0.1672,,
+raj,4,0.0,gastroc med,gasmed_r,0.3213,0.2426,,
+raj,4,0.0,gastroc lat,gaslat_r,0.7014,0.1499,,
+raj,4,0.0,tib ant,tibant_r,0.4811,0.2109,,
+raj,4,0.0,vastus lat,vaslat_r,0.7135,0.1516,,
+raj,4,0.0,vastus med,vasmed_r,0.5992,0.1449,,
+raj,4,0.0,rectus fem,recfem_r,-0.3278,0.3089,,
+raj,4,0.0,biceps fem lh,bflh_r,0.6889,0.1284,,
+raj,4,0.0,semimem+ten (1 electrode),semimem_r+semiten_r,0.3546,0.132,0.2355,0.1458
+raj,4,0.0,glute max (1 electrode),glmax1_r+glmax2_r+glmax3_r,0.7676,0.1083,0.7601,0.1091
+raj,4,0.0,glute med (1 electrode),glmed1_r+glmed2_r+glmed3_r,0.6856,0.1287,0.6981,0.1252
+raj,4,75.0,soleus,soleus_r,0.9352,0.0782,,
+raj,4,75.0,gastroc med,gasmed_r,0.8578,0.1274,,
+raj,4,75.0,gastroc lat,gaslat_r,0.715,0.148,,
+raj,4,75.0,tib ant,tibant_r,0.4857,0.1892,,
+raj,4,75.0,vastus lat,vaslat_r,0.728,0.1464,,
+raj,4,75.0,vastus med,vasmed_r,0.8288,0.0942,,
+raj,4,75.0,rectus fem,recfem_r,0.0076,0.2763,,
+raj,4,75.0,biceps fem lh,bflh_r,0.8422,0.1011,,
+raj,4,75.0,semimem+ten (1 electrode),semimem_r+semiten_r,0.7064,0.0996,0.6357,0.1083
+raj,4,75.0,glute max (1 electrode),glmax1_r+glmax2_r+glmax3_r,0.508,0.219,0.4945,0.2211
+raj,4,75.0,glute med (1 electrode),glmed1_r+glmed2_r+glmed3_r,0.833,0.0976,0.8326,0.0965
+raj,5,0.0,soleus,soleus_r,0.5055,0.178,,
+raj,5,0.0,gastroc med,gasmed_r,0.3188,0.2335,,
+raj,5,0.0,gastroc lat,gaslat_r,0.4525,0.1984,,
+raj,5,0.0,tib ant,tibant_r,0.6896,0.1446,,
+raj,5,0.0,vastus lat,vaslat_r,0.626,0.1491,,
+raj,5,0.0,vastus med,vasmed_r,0.6317,0.1766,,
+raj,5,0.0,rectus fem,recfem_r,-0.2515,0.2172,,
+raj,5,0.0,biceps fem lh,bflh_r,0.3841,0.1888,,
+raj,5,0.0,semimem+ten (1 electrode),semimem_r+semiten_r,0.4488,0.1543,0.3337,0.1642
+raj,5,0.0,glute max (1 electrode),glmax1_r+glmax2_r+glmax3_r,0.7289,0.1072,0.7261,0.1059
+raj,5,0.0,glute med (1 electrode),glmed1_r+glmed2_r+glmed3_r,0.6492,0.1308,0.6697,0.1264
+raj,5,75.0,soleus,soleus_r,0.9671,0.0549,,
+raj,5,75.0,gastroc med,gasmed_r,0.9071,0.0894,,
+raj,5,75.0,gastroc lat,gaslat_r,0.8787,0.13,,
+raj,5,75.0,tib ant,tibant_r,0.2136,0.2462,,
+raj,5,75.0,vastus lat,vaslat_r,0.8211,0.1038,,
+raj,5,75.0,vastus med,vasmed_r,0.8188,0.1359,,
+raj,5,75.0,rectus fem,recfem_r,0.1205,0.1885,,
+raj,5,75.0,biceps fem lh,bflh_r,0.5607,0.1753,,
+raj,5,75.0,semimem+ten (1 electrode),semimem_r+semiten_r,0.7625,0.1029,0.7256,0.1051
+raj,5,75.0,glute max (1 electrode),glmax1_r+glmax2_r+glmax3_r,0.4454,0.1472,0.4452,0.145
+raj,5,75.0,glute med (1 electrode),glmed1_r+glmed2_r+glmed3_r,0.885,0.0808,0.8857,0.0798

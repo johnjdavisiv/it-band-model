@@ -1,0 +1,196 @@
+joint,condition,coordinate,role,value_deg_or_m,units
+hip,knee = 15°,ankle_angle_l,model default,0.0,deg
+hip,knee = 15°,ankle_angle_r,fixed by condition,0.0,deg
+hip,knee = 15°,arm_add_l,model default,0.0,deg
+hip,knee = 15°,arm_add_r,model default,0.0,deg
+hip,knee = 15°,arm_flex_l,model default,0.0,deg
+hip,knee = 15°,arm_flex_r,model default,0.0,deg
+hip,knee = 15°,arm_rot_l,model default,0.0,deg
+hip,knee = 15°,arm_rot_r,model default,0.0,deg
+hip,knee = 15°,elbow_flex_l,model default,0.0,deg
+hip,knee = 15°,elbow_flex_r,model default,0.0,deg
+hip,knee = 15°,hip_adduction_l,model default,0.0,deg
+hip,knee = 15°,hip_adduction_r,neutralised to 0,0.0,deg
+hip,knee = 15°,hip_flexion_l,model default,0.0,deg
+hip,knee = 15°,hip_flexion_r,SWEPT,-15.0 to 37.0,deg
+hip,knee = 15°,hip_rotation_l,model default,0.0,deg
+hip,knee = 15°,hip_rotation_r,neutralised to 0,0.0,deg
+hip,knee = 15°,knee_angle_l,model default,0.0,deg
+hip,knee = 15°,knee_angle_l_beta,model default,0.0,deg
+hip,knee = 15°,knee_angle_r,fixed by condition,15.0,deg
+hip,knee = 15°,knee_angle_r_beta,model default,0.0,deg
+hip,knee = 15°,lumbar_bending,model default,0.0,deg
+hip,knee = 15°,lumbar_extension,model default,0.0,deg
+hip,knee = 15°,lumbar_rotation,model default,0.0,deg
+hip,knee = 15°,mtp_angle_l,model default,0.0,deg
+hip,knee = 15°,mtp_angle_r,model default,0.0,deg
+hip,knee = 15°,pelvis_list,model default,0.0,deg
+hip,knee = 15°,pelvis_rotation,model default,0.0,deg
+hip,knee = 15°,pelvis_tilt,model default,0.0000,m
+hip,knee = 15°,pelvis_tx,model default,0.0000,m
+hip,knee = 15°,pelvis_ty,model default,0.9400,m
+hip,knee = 15°,pelvis_tz,model default,0.0000,m
+hip,knee = 15°,pro_sup_l,model default,0.0,deg
+hip,knee = 15°,pro_sup_r,model default,0.0,deg
+hip,knee = 15°,subtalar_angle_l,model default,0.0,deg
+hip,knee = 15°,subtalar_angle_r,model default,0.0,deg
+hip,knee = 15°,wrist_dev_l,model default,0.0,deg
+hip,knee = 15°,wrist_dev_r,model default,0.0,deg
+hip,knee = 15°,wrist_flex_l,model default,0.0,deg
+hip,knee = 15°,wrist_flex_r,model default,0.0,deg
+hip,knee = 60°,ankle_angle_l,model default,0.0,deg
+hip,knee = 60°,ankle_angle_r,fixed by condition,0.0,deg
+hip,knee = 60°,arm_add_l,model default,0.0,deg
+hip,knee = 60°,arm_add_r,model default,0.0,deg
+hip,knee = 60°,arm_flex_l,model default,0.0,deg
+hip,knee = 60°,arm_flex_r,model default,0.0,deg
+hip,knee = 60°,arm_rot_l,model default,0.0,deg
+hip,knee = 60°,arm_rot_r,model default,0.0,deg
+hip,knee = 60°,elbow_flex_l,model default,0.0,deg
+hip,knee = 60°,elbow_flex_r,model default,0.0,deg
+hip,knee = 60°,hip_adduction_l,model default,0.0,deg
+hip,knee = 60°,hip_adduction_r,neutralised to 0,0.0,deg
+hip,knee = 60°,hip_flexion_l,model default,0.0,deg
+hip,knee = 60°,hip_flexion_r,SWEPT,-15.0 to 37.0,deg
+hip,knee = 60°,hip_rotation_l,model default,0.0,deg
+hip,knee = 60°,hip_rotation_r,neutralised to 0,0.0,deg
+hip,knee = 60°,knee_angle_l,model default,0.0,deg
+hip,knee = 60°,knee_angle_l_beta,model default,0.0,deg
+hip,knee = 60°,knee_angle_r,fixed by condition,60.0,deg
+hip,knee = 60°,knee_angle_r_beta,model default,0.0,deg
+hip,knee = 60°,lumbar_bending,model default,0.0,deg
+hip,knee = 60°,lumbar_extension,model default,0.0,deg
+hip,knee = 60°,lumbar_rotation,model default,0.0,deg
+hip,knee = 60°,mtp_angle_l,model default,0.0,deg
+hip,knee = 60°,mtp_angle_r,model default,0.0,deg
+hip,knee = 60°,pelvis_list,model default,0.0,deg
+hip,knee = 60°,pelvis_rotation,model default,0.0,deg
+hip,knee = 60°,pelvis_tilt,model default,0.0000,m
+hip,knee = 60°,pelvis_tx,model default,0.0000,m
+hip,knee = 60°,pelvis_ty,model default,0.9400,m
+hip,knee = 60°,pelvis_tz,model default,0.0000,m
+hip,knee = 60°,pro_sup_l,model default,0.0,deg
+hip,knee = 60°,pro_sup_r,model default,0.0,deg
+hip,knee = 60°,subtalar_angle_l,model default,0.0,deg
+hip,knee = 60°,subtalar_angle_r,model default,0.0,deg
+hip,knee = 60°,wrist_dev_l,model default,0.0,deg
+hip,knee = 60°,wrist_dev_r,model default,0.0,deg
+hip,knee = 60°,wrist_flex_l,model default,0.0,deg
+hip,knee = 60°,wrist_flex_r,model default,0.0,deg
+knee,"hip = 0°,  ankle = 20°",ankle_angle_l,model default,0.0,deg
+knee,"hip = 0°,  ankle = 20°",ankle_angle_r,fixed by condition,20.0,deg
+knee,"hip = 0°,  ankle = 20°",arm_add_l,model default,0.0,deg
+knee,"hip = 0°,  ankle = 20°",arm_add_r,model default,0.0,deg
+knee,"hip = 0°,  ankle = 20°",arm_flex_l,model default,0.0,deg
+knee,"hip = 0°,  ankle = 20°",arm_flex_r,model default,0.0,deg
+knee,"hip = 0°,  ankle = 20°",arm_rot_l,model default,0.0,deg
+knee,"hip = 0°,  ankle = 20°",arm_rot_r,model default,0.0,deg
+knee,"hip = 0°,  ankle = 20°",elbow_flex_l,model default,0.0,deg
+knee,"hip = 0°,  ankle = 20°",elbow_flex_r,model default,0.0,deg
+knee,"hip = 0°,  ankle = 20°",hip_adduction_l,model default,0.0,deg
+knee,"hip = 0°,  ankle = 20°",hip_adduction_r,neutralised to 0,0.0,deg
+knee,"hip = 0°,  ankle = 20°",hip_flexion_l,model default,0.0,deg
+knee,"hip = 0°,  ankle = 20°",hip_flexion_r,fixed by condition,0.0,deg
+knee,"hip = 0°,  ankle = 20°",hip_rotation_l,model default,0.0,deg
+knee,"hip = 0°,  ankle = 20°",hip_rotation_r,neutralised to 0,0.0,deg
+knee,"hip = 0°,  ankle = 20°",knee_angle_l,model default,0.0,deg
+knee,"hip = 0°,  ankle = 20°",knee_angle_l_beta,model default,0.0,deg
+knee,"hip = 0°,  ankle = 20°",knee_angle_r,SWEPT,0.0 to 75.0,deg
+knee,"hip = 0°,  ankle = 20°",knee_angle_r_beta,model default,0.0,deg
+knee,"hip = 0°,  ankle = 20°",lumbar_bending,model default,0.0,deg
+knee,"hip = 0°,  ankle = 20°",lumbar_extension,model default,0.0,deg
+knee,"hip = 0°,  ankle = 20°",lumbar_rotation,model default,0.0,deg
+knee,"hip = 0°,  ankle = 20°",mtp_angle_l,model default,0.0,deg
+knee,"hip = 0°,  ankle = 20°",mtp_angle_r,model default,0.0,deg
+knee,"hip = 0°,  ankle = 20°",pelvis_list,model default,0.0,deg
+knee,"hip = 0°,  ankle = 20°",pelvis_rotation,model default,0.0,deg
+knee,"hip = 0°,  ankle = 20°",pelvis_tilt,model default,0.0000,m
+knee,"hip = 0°,  ankle = 20°",pelvis_tx,model default,0.0000,m
+knee,"hip = 0°,  ankle = 20°",pelvis_ty,model default,0.9400,m
+knee,"hip = 0°,  ankle = 20°",pelvis_tz,model default,0.0000,m
+knee,"hip = 0°,  ankle = 20°",pro_sup_l,model default,0.0,deg
+knee,"hip = 0°,  ankle = 20°",pro_sup_r,model default,0.0,deg
+knee,"hip = 0°,  ankle = 20°",subtalar_angle_l,model default,0.0,deg
+knee,"hip = 0°,  ankle = 20°",subtalar_angle_r,model default,0.0,deg
+knee,"hip = 0°,  ankle = 20°",wrist_dev_l,model default,0.0,deg
+knee,"hip = 0°,  ankle = 20°",wrist_dev_r,model default,0.0,deg
+knee,"hip = 0°,  ankle = 20°",wrist_flex_l,model default,0.0,deg
+knee,"hip = 0°,  ankle = 20°",wrist_flex_r,model default,0.0,deg
+knee,"hip = 0°,  ankle = −15°",ankle_angle_l,model default,0.0,deg
+knee,"hip = 0°,  ankle = −15°",ankle_angle_r,fixed by condition,-15.0,deg
+knee,"hip = 0°,  ankle = −15°",arm_add_l,model default,0.0,deg
+knee,"hip = 0°,  ankle = −15°",arm_add_r,model default,0.0,deg
+knee,"hip = 0°,  ankle = −15°",arm_flex_l,model default,0.0,deg
+knee,"hip = 0°,  ankle = −15°",arm_flex_r,model default,0.0,deg
+knee,"hip = 0°,  ankle = −15°",arm_rot_l,model default,0.0,deg
+knee,"hip = 0°,  ankle = −15°",arm_rot_r,model default,0.0,deg
+knee,"hip = 0°,  ankle = −15°",elbow_flex_l,model default,0.0,deg
+knee,"hip = 0°,  ankle = −15°",elbow_flex_r,model default,0.0,deg
+knee,"hip = 0°,  ankle = −15°",hip_adduction_l,model default,0.0,deg
+knee,"hip = 0°,  ankle = −15°",hip_adduction_r,neutralised to 0,0.0,deg
+knee,"hip = 0°,  ankle = −15°",hip_flexion_l,model default,0.0,deg
+knee,"hip = 0°,  ankle = −15°",hip_flexion_r,fixed by condition,0.0,deg
+knee,"hip = 0°,  ankle = −15°",hip_rotation_l,model default,0.0,deg
+knee,"hip = 0°,  ankle = −15°",hip_rotation_r,neutralised to 0,0.0,deg
+knee,"hip = 0°,  ankle = −15°",knee_angle_l,model default,0.0,deg
+knee,"hip = 0°,  ankle = −15°",knee_angle_l_beta,model default,0.0,deg
+knee,"hip = 0°,  ankle = −15°",knee_angle_r,SWEPT,0.0 to 75.0,deg
+knee,"hip = 0°,  ankle = −15°",knee_angle_r_beta,model default,0.0,deg
+knee,"hip = 0°,  ankle = −15°",lumbar_bending,model default,0.0,deg
+knee,"hip = 0°,  ankle = −15°",lumbar_extension,model default,0.0,deg
+knee,"hip = 0°,  ankle = −15°",lumbar_rotation,model default,0.0,deg
+knee,"hip = 0°,  ankle = −15°",mtp_angle_l,model default,0.0,deg
+knee,"hip = 0°,  ankle = −15°",mtp_angle_r,model default,0.0,deg
+knee,"hip = 0°,  ankle = −15°",pelvis_list,model default,0.0,deg
+knee,"hip = 0°,  ankle = −15°",pelvis_rotation,model default,0.0,deg
+knee,"hip = 0°,  ankle = −15°",pelvis_tilt,model default,0.0000,m
+knee,"hip = 0°,  ankle = −15°",pelvis_tx,model default,0.0000,m
+knee,"hip = 0°,  ankle = −15°",pelvis_ty,model default,0.9400,m
+knee,"hip = 0°,  ankle = −15°",pelvis_tz,model default,0.0000,m
+knee,"hip = 0°,  ankle = −15°",pro_sup_l,model default,0.0,deg
+knee,"hip = 0°,  ankle = −15°",pro_sup_r,model default,0.0,deg
+knee,"hip = 0°,  ankle = −15°",subtalar_angle_l,model default,0.0,deg
+knee,"hip = 0°,  ankle = −15°",subtalar_angle_r,model default,0.0,deg
+knee,"hip = 0°,  ankle = −15°",wrist_dev_l,model default,0.0,deg
+knee,"hip = 0°,  ankle = −15°",wrist_dev_r,model default,0.0,deg
+knee,"hip = 0°,  ankle = −15°",wrist_flex_l,model default,0.0,deg
+knee,"hip = 0°,  ankle = −15°",wrist_flex_r,model default,0.0,deg
+knee,"hip = −15°,  ankle = 20°",ankle_angle_l,model default,0.0,deg
+knee,"hip = −15°,  ankle = 20°",ankle_angle_r,fixed by condition,20.0,deg
+knee,"hip = −15°,  ankle = 20°",arm_add_l,model default,0.0,deg
+knee,"hip = −15°,  ankle = 20°",arm_add_r,model default,0.0,deg
+knee,"hip = −15°,  ankle = 20°",arm_flex_l,model default,0.0,deg
+knee,"hip = −15°,  ankle = 20°",arm_flex_r,model default,0.0,deg
+knee,"hip = −15°,  ankle = 20°",arm_rot_l,model default,0.0,deg
+knee,"hip = −15°,  ankle = 20°",arm_rot_r,model default,0.0,deg
+knee,"hip = −15°,  ankle = 20°",elbow_flex_l,model default,0.0,deg
+knee,"hip = −15°,  ankle = 20°",elbow_flex_r,model default,0.0,deg
+knee,"hip = −15°,  ankle = 20°",hip_adduction_l,model default,0.0,deg
+knee,"hip = −15°,  ankle = 20°",hip_adduction_r,neutralised to 0,0.0,deg
+knee,"hip = −15°,  ankle = 20°",hip_flexion_l,model default,0.0,deg
+knee,"hip = −15°,  ankle = 20°",hip_flexion_r,fixed by condition,-15.0,deg
+knee,"hip = −15°,  ankle = 20°",hip_rotation_l,model default,0.0,deg
+knee,"hip = −15°,  ankle = 20°",hip_rotation_r,neutralised to 0,0.0,deg
+knee,"hip = −15°,  ankle = 20°",knee_angle_l,model default,0.0,deg
+knee,"hip = −15°,  ankle = 20°",knee_angle_l_beta,model default,0.0,deg
+knee,"hip = −15°,  ankle = 20°",knee_angle_r,SWEPT,0.0 to 75.0,deg
+knee,"hip = −15°,  ankle = 20°",knee_angle_r_beta,model default,0.0,deg
+knee,"hip = −15°,  ankle = 20°",lumbar_bending,model default,0.0,deg
+knee,"hip = −15°,  ankle = 20°",lumbar_extension,model default,0.0,deg
+knee,"hip = −15°,  ankle = 20°",lumbar_rotation,model default,0.0,deg
+knee,"hip = −15°,  ankle = 20°",mtp_angle_l,model default,0.0,deg
+knee,"hip = −15°,  ankle = 20°",mtp_angle_r,model default,0.0,deg
+knee,"hip = −15°,  ankle = 20°",pelvis_list,model default,0.0,deg
+knee,"hip = −15°,  ankle = 20°",pelvis_rotation,model default,0.0,deg
+knee,"hip = −15°,  ankle = 20°",pelvis_tilt,model default,0.0000,m
+knee,"hip = −15°,  ankle = 20°",pelvis_tx,model default,0.0000,m
+knee,"hip = −15°,  ankle = 20°",pelvis_ty,model default,0.9400,m
+knee,"hip = −15°,  ankle = 20°",pelvis_tz,model default,0.0000,m
+knee,"hip = −15°,  ankle = 20°",pro_sup_l,model default,0.0,deg
+knee,"hip = −15°,  ankle = 20°",pro_sup_r,model default,0.0,deg
+knee,"hip = −15°,  ankle = 20°",subtalar_angle_l,model default,0.0,deg
+knee,"hip = −15°,  ankle = 20°",subtalar_angle_r,model default,0.0,deg
+knee,"hip = −15°,  ankle = 20°",wrist_dev_l,model default,0.0,deg
+knee,"hip = −15°,  ankle = 20°",wrist_dev_r,model default,0.0,deg
+knee,"hip = −15°,  ankle = 20°",wrist_flex_l,model default,0.0,deg
+knee,"hip = −15°,  ankle = 20°",wrist_flex_r,model default,0.0,deg

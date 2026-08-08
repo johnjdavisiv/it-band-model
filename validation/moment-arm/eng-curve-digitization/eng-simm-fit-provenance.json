@@ -1,0 +1,192 @@
+{
+  "description": "Eng et al. (2015) ORIGINAL SIMM MODEL moment-arm curves (3 tracts x 3 DOFs), deg-4 poly fit + 201-pt resample over the digitized x-range, in our model's convention (no sign flips -- Eng data is natively compatible; verified vs step7).",
+  "poly_degree": 4,
+  "n_grid": 201,
+  "grid_rule": "per (tract, DOF): linspace over the single curve's digitized x-range",
+  "coeff_basis": "power, ascending (moment_arm_cm = sum c[i]*angle_deg**i)",
+  "sign_flips": "none (angle x1, moment_arm x1 on all axes)",
+  "source": "digitized SIMM-model lines from Eng et al. (2015) figures",
+  "panels": {
+    "glmax12|hip_adduction": {
+      "raw_file": "eng-glmax12-hip-adduction-SIMM-raw.csv",
+      "model_tract": "glmax12_ITB",
+      "coord": "hip_adduction",
+      "muscle": "gmax12-itb",
+      "n_pts": 16,
+      "x_range": [
+        -24.53,
+        8.401
+      ],
+      "coeffs": [
+        -1.8925452674025531,
+        0.050451238608494306,
+        1.8331222677799856e-05,
+        -6.409146623430062e-05,
+        -3.077323452188178e-06
+      ],
+      "resid_rms_cm": 0.01233,
+      "resid_max_cm": 0.02733
+    },
+    "glmax12|hip_flexion": {
+      "raw_file": "eng-glmax12-itb-hip-flexion-SIMM-raw.csv",
+      "model_tract": "glmax12_ITB",
+      "coord": "hip_flexion",
+      "muscle": "gmax12-itb",
+      "n_pts": 17,
+      "x_range": [
+        -18.908,
+        58.739
+      ],
+      "coeffs": [
+        -5.626642025534342,
+        0.04898814888618735,
+        0.00029392158652155625,
+        -1.3241516989468589e-05,
+        1.1539843938900613e-07
+      ],
+      "resid_rms_cm": 0.01503,
+      "resid_max_cm": 0.02962
+    },
+    "glmax12|knee_flexion": {
+      "raw_file": "eng-glmax12-itb-knee-flexion-SIMM-raw.csv",
+      "model_tract": "glmax12_ITB",
+      "coord": "knee_flexion",
+      "muscle": "gmax12-itb",
+      "n_pts": 18,
+      "x_range": [
+        1.41,
+        99.896
+      ],
+      "coeffs": [
+        0.1129172775231081,
+        0.01245030365835661,
+        0.000677200640781771,
+        -1.5200738731233527e-05,
+        4.554185429775849e-08
+      ],
+      "resid_rms_cm": 0.038,
+      "resid_max_cm": 0.07028
+    },
+    "glmax34|hip_adduction": {
+      "raw_file": "eng-glmax34-itb-hip-adduction-SIMM-raw.csv",
+      "model_tract": "glmax34_ITB",
+      "coord": "hip_adduction",
+      "muscle": "gmax34-itb",
+      "n_pts": 16,
+      "x_range": [
+        -24.532,
+        8.502
+      ],
+      "coeffs": [
+        3.160076145975095,
+        -0.011513187730212067,
+        -0.000816514951326633,
+        -2.2843140901318978e-05,
+        -3.372661163438009e-07
+      ],
+      "resid_rms_cm": 0.01142,
+      "resid_max_cm": 0.01985
+    },
+    "glmax34|hip_flexion": {
+      "raw_file": "eng-glmax34-itb-hip-flexion-SIMM-raw.csv",
+      "model_tract": "glmax34_ITB",
+      "coord": "hip_flexion",
+      "muscle": "gmax34-itb",
+      "n_pts": 17,
+      "x_range": [
+        -19.02,
+        58.204
+      ],
+      "coeffs": [
+        -7.8212001441449255,
+        -0.005826290501337055,
+        0.0013177378179396607,
+        -2.201561981229379e-05,
+        2.1718475174924688e-07
+      ],
+      "resid_rms_cm": 0.0132,
+      "resid_max_cm": 0.02561
+    },
+    "glmax34|knee_flexion": {
+      "raw_file": "eng-glmax34-itb-knee-flexion-SIMM-raw.csv",
+      "model_tract": "glmax34_ITB",
+      "coord": "knee_flexion",
+      "muscle": "gmax34-itb",
+      "n_pts": 20,
+      "x_range": [
+        1.43,
+        99.676
+      ],
+      "coeffs": [
+        1.4022907045915622,
+        0.00102100349653164,
+        0.0015122977852511574,
+        -2.9551828129403433e-05,
+        9.022043971246279e-08
+      ],
+      "resid_rms_cm": 0.08679,
+      "resid_max_cm": 0.15508
+    },
+    "tfl12|hip_adduction": {
+      "raw_file": "eng-tfl12-itb-hip-adduction-SIMM-raw.csv",
+      "model_tract": "tfl12_ITB",
+      "coord": "hip_adduction",
+      "muscle": "tfl12-itb",
+      "n_pts": 18,
+      "x_range": [
+        -24.504,
+        9.575
+      ],
+      "coeffs": [
+        -4.791572261390003,
+        0.08963870727943238,
+        0.00012213767049781,
+        1.0101660592557869e-05,
+        4.545104711158827e-07
+      ],
+      "resid_rms_cm": 0.01104,
+      "resid_max_cm": 0.02202
+    },
+    "tfl12|hip_flexion": {
+      "raw_file": "eng-tfl12-itb-hip-flexion-SIMM-raw.csv",
+      "model_tract": "tfl12_ITB",
+      "coord": "hip_flexion",
+      "muscle": "tfl12-itb",
+      "n_pts": 19,
+      "x_range": [
+        -18.957,
+        59.463
+      ],
+      "coeffs": [
+        4.0089443271444996,
+        0.11210023087903034,
+        -0.00026182799886734784,
+        -9.336278217790582e-06,
+        8.685309515711147e-08
+      ],
+      "resid_rms_cm": 0.01406,
+      "resid_max_cm": 0.02777
+    },
+    "tfl12|knee_flexion": {
+      "raw_file": "eng-tfl12-itb-knee-flexion-SIMM-raw.csv",
+      "model_tract": "tfl12_ITB",
+      "coord": "knee_flexion",
+      "muscle": "tfl12-itb",
+      "n_pts": 20,
+      "x_range": [
+        1.236,
+        99.663
+      ],
+      "coeffs": [
+        -1.6594269642005635,
+        -0.008329167081931488,
+        0.0008089292788160933,
+        -7.785670181136187e-06,
+        3.109895722244506e-08
+      ],
+      "resid_rms_cm": 0.01033,
+      "resid_max_cm": 0.02508
+    }
+  },
+  "anomaly_report": []
+}
