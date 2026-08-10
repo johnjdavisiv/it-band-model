@@ -2,9 +2,11 @@
 
 Most musculoskeletal models do not have an anatomically informed IT band. But this one does! Full-body model based on Rajagopal/Lai/Uhlrich2023 that also features a "real" IT band with fibers connecting from the gluteus maximus and tensor fascia lata.  
 
-**Citation**: Davis, J. (2026). A full-body musculoskeletal model with an anatomically informed iliotibial band. bioRxiv. [DOI HERE]
+**Citation**: Davis, J. (2026). A full-body musculoskeletal model with an anatomically informed iliotibial band. SportRxiv. [DOI HERE]
 
-📄 Read here: https://www.biorxiv.org/
+📄 Read the preprint here: [LINK]
+
+💿 Data: [https://doi.org/10.6084/m9.figshare.33190689](https://doi.org/10.6084/m9.figshare.33190689)
 
 Models and code to reproduce the full-body direct collocation simulations of running supporting the results of my IT band modeling paper. 
 
@@ -22,7 +24,7 @@ Pulls OpenSim 4.6 from the opensim conda channel. You may need to point your geo
 
 **Required data**: 
 
-The repository ships the experimental inputs for the core pipeline (`data/`, ~4 MB, from Hamner & Delp 2013). Two optional datasets live in [the paper's figshare folder](https://figshare.com/): 
+The repository ships the experimental inputs for the core pipeline (`data/`, ~4 MB, from Hamner & Delp 2013). Two optional datasets live in [the paper's figshare folder](https://doi.org/10.6084/m9.figshare.33190689): 
 
 * **input-data archive**: unzip to `data/emg/` - contains raw EMG + multi-speed GRFs (for segmenting gait cycles); only needed for the EMG validation component of the study
 * **output-data archive**: unzip to `results/` - contains published RRA + MocoInverse outputs. These let you run the full results analysis without re-solving, which can take several hours
