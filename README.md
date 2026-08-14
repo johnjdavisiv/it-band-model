@@ -2,9 +2,9 @@
 
 Most musculoskeletal models do not have an anatomically informed IT band. But this one does! Full-body model based on Rajagopal/Lai/Uhlrich2023 that also features a "real" IT band with fibers connecting from the gluteus maximus and tensor fascia lata.  
 
-**Citation**: Davis, J. (2026). A full-body musculoskeletal model with an anatomically informed iliotibial band. SportRxiv. [DOI HERE]
+**Citation**: Davis, J. (2026). A full-body musculoskeletal model with an anatomically informed iliotibial band. SportRxiv. doi:10.51224/SportRxiv.1017
 
-📄 Read the preprint here: [LINK]
+📄 Read the preprint here: [https://sportrxiv.org/index.php/server/preprint/view/1017](https://sportrxiv.org/index.php/server/preprint/view/1017)
 
 💿 Data: [https://doi.org/10.6084/m9.figshare.33190689](https://doi.org/10.6084/m9.figshare.33190689)
 
